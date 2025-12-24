@@ -36,18 +36,18 @@ class OCRAnalysisRequest(BaseModel):
 def create_ocr_agent():
     return create_agent(
         model="gpt-4o-mini",
-        system_prompt=SYS_PROMPT,  # Koristi pravi system prompt
+        system_prompt=SYS_PROMPT, 
     )
 
 @app.post("/analyze-ocr")
 async def analyze_ocr_endpoint(request: OCRAnalysisRequest):
     """
-    Endpoint za analizu OCR teksta.
+    Endpoint.
     
     Body:
     {
-        "ocr_text": "OCR rezultat",
-        "ground_truth": "Tačan tekst"
+        "ocr_text": "OCR result",
+        "ground_truth": "ground truth"
     }
     """
     try:
@@ -88,4 +88,4 @@ async def root():
 async def health():
     return {"status": "healthy"}
 
-# Pokretanje: uvicorn main:app --reload
+# Run: uvicorn main:app --reload

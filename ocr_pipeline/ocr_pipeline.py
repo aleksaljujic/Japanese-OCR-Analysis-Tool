@@ -14,7 +14,7 @@ from load_data import extract_text_from_json
 
 app = FastAPI()
 
-# Inicijalizuj OCR jednom
+# OCR model
 ocr = PaddleOCR(
     lang='japan',
     use_doc_orientation_classify=False,
@@ -25,7 +25,7 @@ ocr = PaddleOCR(
     rec_batch_num=1
 )
 
-# Pydantic modeli
+# Pydantic models
 class OCRPathRequest(BaseModel):
     img_path: str
     gt_path: Optional[str] = None
@@ -54,11 +54,11 @@ def run_ocr_th(img_path):
     full_text = '\n'.join(all_texts)
     return full_text
 
-# Endpoint 1: Sa putanjama do fajlova
+# Endpoint 1:
 @app.post("/ocr/from-path", response_model=OCRResponse)
 async def ocr_from_path(request: OCRPathRequest):
     """
-    OCR sa putanjama do fajlova na serveru.
+    OCR paths.
     
     Body:
     {
@@ -87,7 +87,7 @@ async def ocr_from_path(request: OCRPathRequest):
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
-# Endpoint 2: Upload fajlova
+# Endpoint 2: Upload 
 @app.post("/ocr/upload", response_model=OCRResponse)
 async def ocr_from_upload(
     image: UploadFile = File(...),
@@ -104,15 +104,15 @@ async def ocr_from_upload(
     temp_gt_path = None
     
     try:
-        # Sačuvaj sliku u temp folder
+        # Save temp
         with tempfile.NamedTemporaryFile(delete=False, suffix=os.path.splitext(image.filename)[1]) as temp_img:
             shutil.copyfileobj(image.file, temp_img)
             temp_img_path = temp_img.name
         
-        # Pokreni OCR
+        # Run OCR
         ocr_text = run_ocr_th(temp_img_path)
         
-        # Ako postoji ground truth
+        # GT = True
         gt_text = None
         if ground_truth:
             with tempfile.NamedTemporaryFile(delete=False, suffix='.json') as temp_gt:
@@ -130,7 +130,7 @@ async def ocr_from_upload(
         raise HTTPException(status_code=500, detail=str(e))
     
     finally:
-        # Obriši temp fajlove
+        # Delete temp
         if temp_img_path and os.path.exists(temp_img_path):
             os.unlink(temp_img_path)
         if temp_gt_path and os.path.exists(temp_gt_path):
@@ -140,4 +140,4 @@ async def ocr_from_upload(
 async def root():
     return {"message": "Japanese OCR API is running"}
 
-# Pokretanje: uvicorn api:app --reload
+# Run: uvicorn api:app --reload

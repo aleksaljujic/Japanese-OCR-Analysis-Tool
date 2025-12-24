@@ -10,7 +10,7 @@ def load_dataset(archive_path):
         if not folder.is_dir():
             continue
         
-        # Pronađi sliku (jpg, jpeg, png)
+        # image (jpg, jpeg, png)
         img_path = None
         for ext in ['*.jpg', '*.jpeg', '*.png']:
             imgs = list(folder.glob(ext))
@@ -18,12 +18,12 @@ def load_dataset(archive_path):
                 img_path = imgs[0]
                 break
         
-        # Pronađi JSON
+        # JSON
         json_files = list(folder.glob('*.json'))
         json_path = json_files[0] if json_files else None
         
         if img_path and json_path:
-            # Učitaj ground truth
+            # Load ground truth
             ground_truth = extract_text_from_json(json_path)
             
             data.append({
@@ -47,7 +47,7 @@ def extract_text_from_json(json_path):
             if text:
                 labels.append(text)
 
-        # Spoji sve label-e u jedan tekst (svaki red jedna anotacija)
+        # Merge
         return "\n".join(labels)
 
     except Exception as e:

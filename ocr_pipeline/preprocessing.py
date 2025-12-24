@@ -111,34 +111,21 @@ def setThresholdAdaptive(img, r=31, c=10):
 
 def setThresholdSauvola(img, window=25, k=0.2):
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-
-    # Uklanjanje šuma
     gray = cv2.bilateralFilter(gray, 7, 50, 50)
 
-    # Sauvola threshold
+    # Sauvola 
     thresh_sauvola = threshold_sauvola(gray, window_size=window, k=k)
     bin_img = (gray > thresh_sauvola).astype(np.uint8) * 255
 
     return bin_img
 
 def warp_img(img_path):
-    #print("Slika postoji:", os.path.exists(img_path))
 
     img = cv2.imread(img_path)
-    print("Dimenzije slike:", img.shape)
-    #print("Tip:", type(img))
-
     from docres.preprocess import preprocess_image_for_ocr
-    #print("Import uspešan!")
-
     img_small = cv2.resize(img, (500, 500))
-    print("Mala slika kreirana:", img_small.shape)
-    
-    import time
     start = time.time()
     result = preprocess_image_for_ocr(img_small)
-    print(f"Završeno za {time.time()-start:.1f}s")
-    print("Result shape:", result.shape)
 
     return result
 
