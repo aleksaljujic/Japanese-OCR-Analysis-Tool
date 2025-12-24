@@ -1,0 +1,266 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "STB",
+            "points": [
+                [
+                    280.55976,
+                    354.485237
+                ],
+                [
+                    385.70527799999996,
+                    412.496554
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "営 業 部",
+            "points": [
+                [
+                    688.45164,
+                    383.490895
+                ],
+                [
+                    738.156433,
+                    550.179138
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "OA ###",
+            "points": [
+                [
+                    507.979213,
+                    176.825676
+                ],
+                [
+                    555.11333,
+                    321.853886
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "内山 幸子",
+            "points": [
+                [
+                    664.884498,
+                    626.413157
+                ],
+                [
+                    779.094224,
+                    1144.435845
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "事務用家具",
+            "points": [
+                [
+                    505.377801,
+                    345.420986
+                ],
+                [
+                    559.763385,
+                    528.5191050000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "各種ファイル",
+            "points": [
+                [
+                    507.975527,
+                    549.469541
+                ],
+                [
+                    557.943334,
+                    763.3667680000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "フォーム印刷(連続伝票)",
+            "points": [
+                [
+                    510.064877,
+                    786.159155
+                ],
+                [
+                    565.292454,
+                    1199.927611
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "カタログ  マニュアル  チラシ) 他",
+            "points": [
+                [
+                    455.231783,
+                    891.705137
+                ],
+                [
+                    507.303498,
+                    1390.725739
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "一般印刷 (手書### ポスター 封筒",
+            "points": [
+                [
+                    455.572537,
+                    352.613431
+                ],
+                [
+                    500.358871,
+                    877.865861
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "エスティービジネス株式会社",
+            "points": [
+                [
+                    310.319811,
+                    450.227493
+                ],
+                [
+                    383.07984400000004,
+                    1175.1989859999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "〒101-0047 東京都千代田区内神田3-22-10ハチヤビル4F",
+            "points": [
+                [
+                    233.606371,
+                    448.764619
+                ],
+                [
+                    301.98337,
+                    1377.552189
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "FAX 03-3251-0933",
+            "points": [
+                [
+                    193.281527,
+                    939.676404
+                ],
+                [
+                    232.00638300000003,
+                    1386.756785
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "TEL 03-3251-0930",
+            "points": [
+                [
+                    196.934108,
+                    451.546345
+                ],
+                [
+                    232.78412500000002,
+                    889.595288
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "E-mail : uchiyama@st-b.co.jp",
+            "points": [
+                [
+                    135.067148,
+                    441.405614
+                ],
+                [
+                    178.740395,
+                    1130.289653
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "http://www.bestcom.jp/stb/",
+            "points": [
+                [
+                    82.329587,
+                    439.757554
+                ],
+                [
+                    131.771027,
+                    1120.401366
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    196.783643,
+                    889.944346
+                ],
+                [
+                    232.428135,
+                    922.677482
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "JAPANESE_CARD_056671.jpg",
+    "imageData": null,
+    "imageHeight": 1503,
+    "imageWidth": 911
+}

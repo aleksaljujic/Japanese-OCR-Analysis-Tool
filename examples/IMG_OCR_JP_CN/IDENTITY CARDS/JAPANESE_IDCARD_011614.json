@@ -1,0 +1,466 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "こくほこくほこくほ",
+            "points": [
+                [
+                    199.681232,
+                    194.313449
+                ],
+                [
+                    236.329183,
+                    196.058589
+                ],
+                [
+                    240.982891,
+                    699.822489
+                ],
+                [
+                    205.498367,
+                    700.985916
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "国民健康保険",
+            "points": [
+                [
+                    257.716012,
+                    178.722497
+                ],
+                [
+                    456.176429,
+                    212.79605700000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "被保険者証",
+            "points": [
+                [
+                    256.991054,
+                    225.845518
+                ],
+                [
+                    457.082641,
+                    257.200443
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "317282",
+            "points": [
+                [
+                    293.239532,
+                    270.068663
+                ],
+                [
+                    413.584468,
+                    303.417251
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "氏 名",
+            "points": [
+                [
+                    258.440998,
+                    320.816531
+                ],
+                [
+                    454.364005,
+                    350.540271
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "生年月日",
+            "points": [
+                [
+                    260.615902,
+                    368.66451
+                ],
+                [
+                    453.45779300000004,
+                    401.28814
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "資格取得年月日",
+            "points": [
+                [
+                    258.440998,
+                    415.062572
+                ],
+                [
+                    454.364005,
+                    446.598736
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "世带主氏名",
+            "points": [
+                [
+                    261.34086,
+                    460.010689
+                ],
+                [
+                    457.082641,
+                    494.627968
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "住 所",
+            "points": [
+                [
+                    262.065846,
+                    528.157809
+                ],
+                [
+                    455.270217,
+                    564.406286
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "交付年月日",
+            "points": [
+                [
+                    261.34086,
+                    599.929806
+                ],
+                [
+                    453.45779300000004,
+                    633.2783939999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "保険者の名称及び印",
+            "points": [
+                [
+                    261.34086,
+                    645.602909
+                ],
+                [
+                    458.89506500000005,
+                    676.776566
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "保険者番号",
+            "points": [
+                [
+                    266.483055,
+                    692.252516
+                ],
+                [
+                    452.62664599999994,
+                    720.989275
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "有効期限",
+            "points": [
+                [
+                    471.580217,
+                    178.271007
+                ],
+                [
+                    582.42267,
+                    210.025867
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "令和4年 1月20日",
+            "points": [
+                [
+                    497.923296,
+                    220.058612
+                ],
+                [
+                    813.828759,
+                    260.294416
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "記号 神栖",
+            "points": [
+                [
+                    836.484058,
+                    178.735342
+                ],
+                [
+                    994.164937,
+                    214.077607
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "番号 03030435",
+            "points": [
+                [
+                    835.759099,
+                    223.68346
+                ],
+                [
+                    1115.597337,
+                    259.38820499999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "藤田 洋子",
+            "points": [
+                [
+                    502.998061,
+                    313.579694
+                ],
+                [
+                    702.36469,
+                    358.165304
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "昭和60年 5月28日",
+            "points": [
+                [
+                    498.648255,
+                    363.602576
+                ],
+                [
+                    814.7349710000001,
+                    399.851053
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "性別 女",
+            "points": [
+                [
+                    935.011672,
+                    361.82427
+                ],
+                [
+                    1070.943464,
+                    400.428904
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "平成26年 3月31日",
+            "points": [
+                [
+                    495.748366,
+                    410.000638
+                ],
+                [
+                    812.922548,
+                    450.59892099999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "藤田 洋子",
+            "points": [
+                [
+                    500.823186,
+                    456.398673
+                ],
+                [
+                    678.803179,
+                    494.09709499999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "茨城県神栖市須田６８番地",
+            "points": [
+                [
+                    500.823186,
+                    520.921001
+                ],
+                [
+                    977.853122,
+                    562.969201
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "令和3年 1月22日",
+            "points": [
+                [
+                    495.748366,
+                    596.317789
+                ],
+                [
+                    816.5473959999999,
+                    638.1847909999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "茨城県神栖市 電話 0299(90) 1111",
+            "points": [
+                [
+                    481.099833,
+                    646.798443
+                ],
+                [
+                    933.162651,
+                    674.852968
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "080499",
+            "points": [
+                [
+                    490.141351,
+                    692.952479
+                ],
+                [
+                    655.6359199999999,
+                    719.8691160000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "茨城県",
+            "points": [
+                [
+                    1021.111533,
+                    607.732478
+                ],
+                [
+                    1154.798345,
+                    647.721721
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "神栖市",
+            "points": [
+                [
+                    1022.14736,
+                    649.929855
+                ],
+                [
+                    1150.552385,
+                    687.179679
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "之印",
+            "points": [
+                [
+                    1027.549169,
+                    690.443252
+                ],
+                [
+                    1142.674777,
+                    729.943838
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "JAPANESE_IDCARD_011614.JPG",
+    "imageData": null,
+    "imageHeight": 960,
+    "imageWidth": 1280
+}

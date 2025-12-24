@@ -1,0 +1,218 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "○○さま",
+            "points": [
+                [
+                    289.948184,
+                    84.069126
+                ],
+                [
+                    352.330148,
+                    104.193376
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "いつもお世話になっており",
+            "points": [
+                [
+                    257.33756,
+                    111.244626
+                ],
+                [
+                    406.378145,
+                    135.27793499999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ます。 本日は書類をお送り",
+            "points": [
+                [
+                    255.87737,
+                    139.014566
+                ],
+                [
+                    406.10099,
+                    160.474918
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "いたします。ご確認、よろし",
+            "points": [
+                [
+                    254.619984,
+                    166.10514
+                ],
+                [
+                    407.35632,
+                    189.34798
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "くお願いいたします。",
+            "points": [
+                [
+                    255.299392,
+                    196.42819
+                ],
+                [
+                    370.694359,
+                    215.482092
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ねっとりとした空気，まぶしい",
+            "points": [
+                [
+                    260.734487,
+                    222.975375
+                ],
+                [
+                    414.785565,
+                    245.763325
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "太陽，青い空，蝉の鳴き声",
+            "points": [
+                [
+                    253.615804,
+                    250.078882
+                ],
+                [
+                    407.312303,
+                    274.801192
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "と「夏!」という感じのする今",
+            "points": [
+                [
+                    252.581873,
+                    281.006541
+                ],
+                [
+                    405.37936,
+                    303.95350900000005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "日この頃。だんだんと暑さが",
+            "points": [
+                [
+                    258.045811,
+                    307.162958
+                ],
+                [
+                    408.380361,
+                    331.391004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "厳しくなってまいります。",
+            "points": [
+                [
+                    254.044514,
+                    337.990163
+                ],
+                [
+                    381.371578,
+                    360.543328
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "○○さん，どうかご自愛",
+            "points": [
+                [
+                    266.169638,
+                    367.88321
+                ],
+                [
+                    400.806464,
+                    390.41017200000005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "くださいね。",
+            "points": [
+                [
+                    262.618727,
+                    397.776258
+                ],
+                [
+                    332.579681,
+                    417.704746
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "小森利絵",
+            "points": [
+                [
+                    335.35663,
+                    417.133127
+                ],
+                [
+                    388.945461,
+                    438.139949
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "JAPANESE_NOTE_DZ_2025040300006.jpg",
+    "imageData": null,
+    "imageHeight": 512,
+    "imageWidth": 682
+}

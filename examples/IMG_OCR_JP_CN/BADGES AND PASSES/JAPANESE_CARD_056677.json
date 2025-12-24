@@ -1,0 +1,202 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "〒 107-0052",
+            "points": [
+                [
+                    81.010675,
+                    325.223438
+                ],
+                [
+                    198.018666,
+                    346.613496
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "代表理事",
+            "points": [
+                [
+                    480.011383,
+                    182.278564
+                ],
+                [
+                    583.88977,
+                    208.49690199999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tel :03-6869-3535",
+            "points": [
+                [
+                    81.758125,
+                    380.203278
+                ],
+                [
+                    265.253265,
+                    401.185852
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "happy",
+            "points": [
+                [
+                    193.410538,
+                    85.128972
+                ],
+                [
+                    347.662339,
+                    140.427465
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "choice",
+            "points": [
+                [
+                    197.938477,
+                    143.078695
+                ],
+                [
+                    346.618477,
+                    187.355251
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "mail:shirane@happy-choice.org",
+            "points": [
+                [
+                    81.934182,
+                    405.780151
+                ],
+                [
+                    410.88639900000004,
+                    428.42227099999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "http://happy-choice.org/",
+            "points": [
+                [
+                    84.227875,
+                    431.852676
+                ],
+                [
+                    351.390478,
+                    455.33505499999995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "一般社団法人ハッピーチョイス",
+            "points": [
+                [
+                    80.481499,
+                    293.814728
+                ],
+                [
+                    454.7081,
+                    321.763245
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "東京都港区赤坂 8-5-32 田中駒ビル2F",
+            "points": [
+                [
+                    80.351343,
+                    351.418653
+                ],
+                [
+                    473.099019,
+                    376.536974
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "白根 邦子",
+            "points": [
+                [
+                    479.869274,
+                    241.750661
+                ],
+                [
+                    698.495406,
+                    232.917282
+                ],
+                [
+                    697.1704,
+                    278.409184
+                ],
+                [
+                    480.752612,
+                    285.917556
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "shirane kuniko",
+            "points": [
+                [
+                    483.910526,
+                    215.990082
+                ],
+                [
+                    687.397847,
+                    208.859799
+                ],
+                [
+                    686.849364,
+                    230.524891
+                ],
+                [
+                    483.910526,
+                    236.558208
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "JAPANESE_CARD_056677.jpg",
+    "imageData": null,
+    "imageHeight": 505,
+    "imageWidth": 799
+}

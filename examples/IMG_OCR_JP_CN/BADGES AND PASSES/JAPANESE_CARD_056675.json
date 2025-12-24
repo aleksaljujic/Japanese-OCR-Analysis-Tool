@@ -1,0 +1,282 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "〒600-8009",
+            "points": [
+                [
+                    85.30307,
+                    554.547363
+                ],
+                [
+                    160.66223100000002,
+                    568.838257
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "TEL 075-256-1010 / FAX 075-256-2010",
+            "points": [
+                [
+                    83.657219,
+                    590.79364
+                ],
+                [
+                    346.230194,
+                    608.16925
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "MRS",
+            "points": [
+                [
+                    216.749664,
+                    346.25592
+                ],
+                [
+                    284.87088,
+                    368.219665
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "E-mail info@nadeshiko-nippon.com",
+            "points": [
+                [
+                    82.935121,
+                    611.713806
+                ],
+                [
+                    330.902832,
+                    628.509643
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "NIPPON",
+            "points": [
+                [
+                    182.134216,
+                    403.589417
+                ],
+                [
+                    319.7583,
+                    427.456605
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ミセスなでしこ日本",
+            "points": [
+                [
+                    156.407128,
+                    437.044128
+                ],
+                [
+                    351.583862,
+                    453.577179
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "https://nadeshiko-nippon.com/",
+            "points": [
+                [
+                    83.63264,
+                    628.509643
+                ],
+                [
+                    292.765426,
+                    646.034692
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "京都市下京区四条通室町東入函谷鉾町 85-1-2F",
+            "points": [
+                [
+                    84.795172,
+                    569.95212
+                ],
+                [
+                    389.146016,
+                    588.3201220000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "NADESHIKO",
+            "points": [
+                [
+                    146.444199,
+                    374.627808
+                ],
+                [
+                    354.619996,
+                    398.95202700000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "株式会社 京都コレクション&エンターテイメント",
+            "points": [
+                [
+                    85.957703,
+                    530.942627
+                ],
+                [
+                    395.996918,
+                    550.421586
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "東京和装コレクション VOL.2",
+            "points": [
+                [
+                    319.626588,
+                    79.479972
+                ],
+                [
+                    336.367046,
+                    312.91634999999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ミセスなでしこ日本 2024",
+            "points": [
+                [
+                    298.236032,
+                    98.5455
+                ],
+                [
+                    314.97646100000003,
+                    304.08110899999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ファイナリスト",
+            "points": [
+                [
+                    276.845419,
+                    99.010505
+                ],
+                [
+                    292.190838,
+                    220.378821
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "小山 恵美子",
+            "points": [
+                [
+                    233.134225,
+                    114.820937
+                ],
+                [
+                    267.080153,
+                    310.591286
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "こやま えみこ",
+            "points": [
+                [
+                    208.023539,
+                    132.026407
+                ],
+                [
+                    222.903946,
+                    266.880092
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "KYOTO COLLECTION",
+            "points": [
+                [
+                    214.068704,
+                    489.621178
+                ],
+                [
+                    369.847961,
+                    498.921432
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    215.696248,
+                    507.407911
+                ],
+                [
+                    309.396308,
+                    513.6855830000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "JAPANESE_CARD_056675.jpg",
+    "imageData": null,
+    "imageHeight": 710,
+    "imageWidth": 523
+}

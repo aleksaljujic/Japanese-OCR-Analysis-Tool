@@ -1,0 +1,1674 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "15",
+            "points": [
+                [
+                    1119.431674,
+                    1211.614653
+                ],
+                [
+                    1143.6409509999999,
+                    1232.6295570000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "TOTAL:",
+            "points": [
+                [
+                    930.447713,
+                    1208.941395
+                ],
+                [
+                    1014.738281,
+                    1234.265625
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "62",
+            "points": [
+                [
+                    1117.978031,
+                    1179.107026
+                ],
+                [
+                    1143.691407,
+                    1200.4921869999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "TAX:",
+            "points": [
+                [
+                    961.593483,
+                    1178.123476
+                ],
+                [
+                    1014.738281,
+                    1202.027344
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "29",
+            "points": [
+                [
+                    1118.305881,
+                    1150.256208
+                ],
+                [
+                    1146.173149,
+                    1170.255071
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "59",
+            "points": [
+                [
+                    1120.430447,
+                    1075.055314
+                ],
+                [
+                    1145.226562,
+                    1093.03125
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "58",
+            "points": [
+                [
+                    945.486299,
+                    1075.452012
+                ],
+                [
+                    970.218751,
+                    1094.566406
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ートパソコンケース",
+            "points": [
+                [
+                    618.201185,
+                    1071.157916
+                ],
+                [
+                    821.707643,
+                    1094.563142
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "71",
+            "points": [
+                [
+                    483.79986,
+                    1073.645561
+                ],
+                [
+                    505.11012400000004,
+                    1093.316573
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "85",
+            "points": [
+                [
+                    1122.413941,
+                    1046.889702
+                ],
+                [
+                    1145.226562,
+                    1066.9335939999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "49",
+            "points": [
+                [
+                    945.882998,
+                    1046.096305
+                ],
+                [
+                    970.218751,
+                    1065.398438
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "電動シェー",
+            "points": [
+                [
+                    647.953591,
+                    1046.562593
+                ],
+                [
+                    789.971743,
+                    1067.190929
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "jstee@opal.com",
+            "points": [
+                [
+                    128.746964,
+                    1048.511719
+                ],
+                [
+                    265.551827,
+                    1070.3163120000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4967913",
+            "points": [
+                [
+                    129.730514,
+                    1077.43886
+                ],
+                [
+                    205.791762,
+                    1093.50352
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "81",
+            "points": [
+                [
+                    485.109375,
+                    1046.976563
+                ],
+                [
+                    505.06640600000003,
+                    1066.9335939999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "20",
+            "points": [
+                [
+                    1121.620544,
+                    1019.517489
+                ],
+                [
+                    1145.226562,
+                    1037.765625
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "56",
+            "points": [
+                [
+                    484.12771,
+                    1019.222426
+                ],
+                [
+                    506.92941199999996,
+                    1037.765625
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "火起こし器",
+            "points": [
+                [
+                    669.328125,
+                    1018.000283
+                ],
+                [
+                    771.723601,
+                    1039.300781
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "岡山県玉野市築港1丁目10-7",
+            "points": [
+                [
+                    130.488281,
+                    1019.34375
+                ],
+                [
+                    362.17631,
+                    1039.300781
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "41",
+            "points": [
+                [
+                    1122.413941,
+                    990.55848
+                ],
+                [
+                    1143.691406,
+                    1010.132813
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "58",
+            "points": [
+                [
+                    1122.413941,
+                    961.202772
+                ],
+                [
+                    1146.6125650000001,
+                    981.434408
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "96",
+            "points": [
+                [
+                    946.279696,
+                    991.748576
+                ],
+                [
+                    970.218751,
+                    1010.1328129999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "39",
+            "points": [
+                [
+                    483.47201,
+                    991.710938
+                ],
+                [
+                    506.601562,
+                    1010.132813
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "株式会社未来商事",
+            "points": [
+                [
+                    130.488281,
+                    991.542106
+                ],
+                [
+                    279.88590899999997,
+                    1010.1328129999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "小動物ケージ",
+            "points": [
+                [
+                    657.077662,
+                    988.640625
+                ],
+                [
+                    779.859375,
+                    1012.049802
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "52",
+            "points": [
+                [
+                    945.486299,
+                    961.99617
+                ],
+                [
+                    970.218751,
+                    982.5
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "41",
+            "points": [
+                [
+                    481.504909,
+                    960.537239
+                ],
+                [
+                    508.388626,
+                    981.519653
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ワイシャツ",
+            "points": [
+                [
+                    669.328125,
+                    962.542969
+                ],
+                [
+                    769.113281,
+                    980.964844
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "柴田健二",
+            "points": [
+                [
+                    130.488281,
+                    962.542969
+                ],
+                [
+                    212.676616,
+                    985.640802
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "71",
+            "points": [
+                [
+                    1121.620544,
+                    933.830559
+                ],
+                [
+                    1143.6914060000001,
+                    954.8671879999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "13",
+            "points": [
+                [
+                    947.469793,
+                    934.623956
+                ],
+                [
+                    970.21875,
+                    954.867188
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "お薬ケース",
+            "points": [
+                [
+                    666.995131,
+                    934.296847
+                ],
+                [
+                    771.326901,
+                    954.925183
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "76",
+            "points": [
+                [
+                    482.81631,
+                    932.997822
+                ],
+                [
+                    508.388626,
+                    953.332031
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "23",
+            "points": [
+                [
+                    1121.223845,
+                    906.458345
+                ],
+                [
+                    1147.009263,
+                    925.896584
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "35",
+            "points": [
+                [
+                    946.279696,
+                    907.251743
+                ],
+                [
+                    970.218751,
+                    925.6992190000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "36",
+            "points": [
+                [
+                    485.109375,
+                    907.277344
+                ],
+                [
+                    507.405075,
+                    925.699219
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "64",
+            "points": [
+                [
+                    1121.223845,
+                    878.689433
+                ],
+                [
+                    1145.226562,
+                    896.531251
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "69",
+            "points": [
+                [
+                    945.882998,
+                    877.896035
+                ],
+                [
+                    970.218751,
+                    898.066406
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "84",
+            "points": [
+                [
+                    484.12771,
+                    878.246838
+                ],
+                [
+                    508.716476,
+                    896.606449
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "綿棒ケース",
+            "points": [
+                [
+                    667.39183,
+                    878.109375
+                ],
+                [
+                    769.113281,
+                    900.180754
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "マスキングテープ",
+            "points": [
+                [
+                    637.242725,
+                    904.94114
+                ],
+                [
+                    802.666103,
+                    924.379379
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "38",
+            "points": [
+                [
+                    1122.413941,
+                    850.523821
+                ],
+                [
+                    1147.405963,
+                    871.152157
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "97",
+            "points": [
+                [
+                    945.494205,
+                    850.870397
+                ],
+                [
+                    970.218751,
+                    870.433594
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "アウトドアテーブル",
+            "points": [
+                [
+                    628.118653,
+                    849.006616
+                ],
+                [
+                    811.393476,
+                    870.825047
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "70",
+            "points": [
+                [
+                    1122.017242,
+                    823.151608
+                ],
+                [
+                    1145.2265619999998,
+                    841.265625
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "18",
+            "points": [
+                [
+                    947.536467,
+                    823.18881
+                ],
+                [
+                    969.0286550000001,
+                    841.610685
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "18",
+            "points": [
+                [
+                    485.109375,
+                    824.378906
+                ],
+                [
+                    508.963615,
+                    841.332204
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    491.340415,
+                    849.72387
+                ],
+                [
+                    501.831622,
+                    869.067032
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "タンス",
+            "points": [
+                [
+                    688.813562,
+                    821.237704
+                ],
+                [
+                    750.691407,
+                    841.265625
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "48",
+            "points": [
+                [
+                    1122.413941,
+                    794.192599
+                ],
+                [
+                    1145.226562,
+                    813.6328129999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "96",
+            "points": [
+                [
+                    946.287602,
+                    796.12597
+                ],
+                [
+                    970.21875,
+                    815.1679690000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "92",
+            "points": [
+                [
+                    484.764991,
+                    794.521752
+                ],
+                [
+                    507.37682,
+                    813.166593
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ジャッキ",
+            "points": [
+                [
+                    680.074219,
+                    792.675394
+                ],
+                [
+                    759.02924,
+                    813.632812
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "75",
+            "points": [
+                [
+                    1120.827146,
+                    767.217084
+                ],
+                [
+                    1145.226562,
+                    786.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "77",
+            "points": [
+                [
+                    946.398009,
+                    765.99133
+                ],
+                [
+                    969.425353,
+                    784.413205
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "マウスウォッシュ",
+            "points": [
+                [
+                    637.639423,
+                    765.699879
+                ],
+                [
+                    797.905718,
+                    785.931515
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "97",
+            "points": [
+                [
+                    1121.620544,
+                    739.448172
+                ],
+                [
+                    1146.6125650000001,
+                    758.3671879999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "20",
+            "points": [
+                [
+                    484.368292,
+                    738.587228
+                ],
+                [
+                    508.170217,
+                    758.422165
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "64",
+            "points": [
+                [
+                    484.368292,
+                    765.959442
+                ],
+                [
+                    508.170217,
+                    785.7943789999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "洗濯ばさみ",
+            "points": [
+                [
+                    669.089767,
+                    735.977711
+                ],
+                [
+                    770.723331,
+                    759.255075
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "53",
+            "points": [
+                [
+                    1122.144777,
+                    710.543711
+                ],
+                [
+                    1145.226562,
+                    731.131074
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "84",
+            "points": [
+                [
+                    945.097506,
+                    711.629136
+                ],
+                [
+                    970.218751,
+                    730.734375
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "缶切",
+            "points": [
+                [
+                    687.75,
+                    709.093994
+                ],
+                [
+                    749.0852179999999,
+                    730.734375
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "78",
+            "points": [
+                [
+                    483.574895,
+                    710.818315
+                ],
+                [
+                    508.17021700000004,
+                    729.463157
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "52",
+            "points": [
+                [
+                    1121.351379,
+                    682.774798
+                ],
+                [
+                    1145.226562,
+                    701.566406
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "100",
+            "points": [
+                [
+                    478.417811,
+                    684.239499
+                ],
+                [
+                    512.533904,
+                    701.566406
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "リップスティック",
+            "points": [
+                [
+                    641.8782,
+                    679.587475
+                ],
+                [
+                    799.57415,
+                    701.881289
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "100",
+            "points": [
+                [
+                    1113.417404,
+                    654.609187
+                ],
+                [
+                    1147.136798,
+                    673.933594
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "75",
+            "points": [
+                [
+                    1120.557982,
+                    626.443576
+                ],
+                [
+                    1146.740099,
+                    644.691718
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "SUB TOTAL:",
+            "points": [
+                [
+                    877.99168,
+                    1148.944808
+                ],
+                [
+                    1016.016617,
+                    1169.927221
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "20",
+            "points": [
+                [
+                    483.574895,
+                    654.883792
+                ],
+                [
+                    508.136719,
+                    673.933594
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "コンパス",
+            "points": [
+                [
+                    680.564525,
+                    652.703758
+                ],
+                [
+                    759.902344,
+                    673.933594
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "29",
+            "points": [
+                [
+                    946.287602,
+                    626.338905
+                ],
+                [
+                    970.21875,
+                    646.3007809999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "42",
+            "points": [
+                [
+                    483.971594,
+                    627.511578
+                ],
+                [
+                    509.757012,
+                    646.156419
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "大阪府門真市新橋町8-11",
+            "points": [
+                [
+                    132.023438,
+                    627.878906
+                ],
+                [
+                    331.593751,
+                    646.300781
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "グローブ",
+            "points": [
+                [
+                    680.074219,
+                    624.836491
+                ],
+                [
+                    760.559975,
+                    644.765625
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "23",
+            "points": [
+                [
+                    1120.95468,
+                    598.674664
+                ],
+                [
+                    1145.226562,
+                    618.667969
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "71",
+            "points": [
+                [
+                    1121.351379,
+                    568.922257
+                ],
+                [
+                    1143.566509,
+                    589.5505919999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "65",
+            "points": [
+                [
+                    945.494205,
+                    598.966691
+                ],
+                [
+                    970.21875,
+                    617.1328129999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "apau@lizard.com",
+            "points": [
+                [
+                    130.488281,
+                    600.246094
+                ],
+                [
+                    276.909382,
+                    619.5693739999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ビーチタオル",
+            "points": [
+                [
+                    660.565662,
+                    597.297074
+                ],
+                [
+                    780.5588369999999,
+                    617.1328129999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "25",
+            "points": [
+                [
+                    485.109375,
+                    571.078125
+                ],
+                [
+                    506.601563,
+                    589.5
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "3",
+            "points": [
+                [
+                    488.731979,
+                    596.965774
+                ],
+                [
+                    504.59992900000003,
+                    617.19741
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6589135",
+            "points": [
+                [
+                    130.488281,
+                    571.078125
+                ],
+                [
+                    202.640625,
+                    589.5
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "エクササイズマット",
+            "points": [
+                [
+                    628.764192,
+                    568.118405
+                ],
+                [
+                    807.4921879999999,
+                    589.5
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "株式会社サンライズ通信",
+            "points": [
+                [
+                    130.488281,
+                    543.445313
+                ],
+                [
+                    331.59375,
+                    563.4023440000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tems",
+            "points": [
+                [
+                    687.121529,
+                    517.629474
+                ],
+                [
+                    747.621094,
+                    537.3046879999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "小松真由",
+            "points": [
+                [
+                    130.488281,
+                    518.882813
+                ],
+                [
+                    210.316406,
+                    538.8398440000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Total",
+            "points": [
+                [
+                    1090.173412,
+                    514.228665
+                ],
+                [
+                    1149.8320310000001,
+                    538.839844
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "97",
+            "points": [
+                [
+                    945.499758,
+                    568.613286
+                ],
+                [
+                    971.90006,
+                    588.677515
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "66",
+            "points": [
+                [
+                    945.499758,
+                    654.150264
+                ],
+                [
+                    971.372054,
+                    674.214493
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    951.835831,
+                    681.078572
+                ],
+                [
+                    964.507976,
+                    701.670807
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    951.835831,
+                    738.63123
+                ],
+                [
+                    963.97997,
+                    757.111441
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Price",
+            "points": [
+                [
+                    930.908191,
+                    515.650723
+                ],
+                [
+                    986.839555,
+                    539.322382
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Qty",
+            "points": [
+                [
+                    475.64092,
+                    516.039229
+                ],
+                [
+                    515.46744,
+                    541.616735
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "95",
+            "points": [
+                [
+                    910.526743,
+                    362.690042
+                ],
+                [
+                    962.542969,
+                    404.145061
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "GRAND TOTAL",
+            "points": [
+                [
+                    864.708038,
+                    325.598709
+                ],
+                [
+                    1011.215868,
+                    346.282893
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2021-06-11",
+            "points": [
+                [
+                    540.171823,
+                    296.285156
+                ],
+                [
+                    635.554688,
+                    314.731143
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Date:",
+            "points": [
+                [
+                    454.484893,
+                    294.499506
+                ],
+                [
+                    507.245827,
+                    313.171875
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "熊本県人吉市上町265-10",
+            "points": [
+                [
+                    455.674989,
+                    147.375
+                ],
+                [
+                    661.652344,
+                    167.952605
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "株式会社未来エンタープライズ",
+            "points": [
+                [
+                    457.476563,
+                    113.604877
+                ],
+                [
+                    717.8928619999999,
+                    136.628906
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "VENDOR",
+            "points": [
+                [
+                    83.441083,
+                    517.283486
+                ],
+                [
+                    116.54706100000001,
+                    661.323532
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "SHIP TO",
+            "points": [
+                [
+                    81.814005,
+                    960.586802
+                ],
+                [
+                    115.05531099999999,
+                    1090.459813
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    951.43678,
+                    1018.327392
+                ],
+                [
+                    966.511332,
+                    1038.162329
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "JAPANESE_TRADE_076967.jpg",
+    "imageData": null,
+    "imageHeight": 1572,
+    "imageWidth": 1220
+}

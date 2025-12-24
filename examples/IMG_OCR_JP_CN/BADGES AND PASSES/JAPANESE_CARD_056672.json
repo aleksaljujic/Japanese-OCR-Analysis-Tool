@@ -1,0 +1,186 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "代表取締役",
+            "points": [
+                [
+                    49.461781,
+                    64.275749
+                ],
+                [
+                    155.96147200000001,
+                    83.03071600000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "一級建築士事務所",
+            "points": [
+                [
+                    48.935449,
+                    287.090354
+                ],
+                [
+                    206.714535,
+                    306.29569399999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ag",
+            "points": [
+                [
+                    560.315491,
+                    65.80676
+                ],
+                [
+                    703.7929079999999,
+                    191.348852
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "〒806-0067",
+            "points": [
+                [
+                    50.603981,
+                    347.824188
+                ],
+                [
+                    166.33561699999998,
+                    363.789337
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "TEL: 072-225-4130",
+            "points": [
+                [
+                    45.455901,
+                    375.671083
+                ],
+                [
+                    244.13638600000002,
+                    395.71732000000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "MAIL : arc@ag-fukunaga.com",
+            "points": [
+                [
+                    46.346845,
+                    405.517703
+                ],
+                [
+                    337.68549299999995,
+                    427.7913
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "FAX : 072-225-4180",
+            "points": [
+                [
+                    257.946016,
+                    373.443723
+                ],
+                [
+                    467.76329899999996,
+                    395.71732
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "WEB : www.ag-fukunaga.com",
+            "points": [
+                [
+                    354.613427,
+                    404.626759
+                ],
+                [
+                    645.0611309999999,
+                    426.900356
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "福永英司 | FUKUNAGA EIJI",
+            "points": [
+                [
+                    44.383668,
+                    91.742107
+                ],
+                [
+                    386.662704,
+                    117.53887300000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "株式会社 ag 福永建築事務所",
+            "points": [
+                [
+                    50.046373,
+                    315.733535
+                ],
+                [
+                    300.463756,
+                    337.75516400000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "北九州市八幡西区引野 3 丁目 12-12 スマート引野 2F",
+            "points": [
+                [
+                    172.738307,
+                    346.563816
+                ],
+                [
+                    648.405497,
+                    366.06868799999995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "JAPANESE_CARD_056672.jpg",
+    "imageData": null,
+    "imageHeight": 505,
+    "imageWidth": 762
+}

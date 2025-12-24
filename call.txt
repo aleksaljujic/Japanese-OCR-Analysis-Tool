@@ -1,0 +1,14 @@
+#OCR PIPELINE API
+
+conda activate ocr_env
+uvicorn ocr_pipeline:app --port 8001 --reload
+
+#AGENT API
+
+conda activate ocr_agent
+uvicorn agent:app --port 8002 --reload
+
+#APP RUN
+
+conda activate agent_env
+streamlit run app.py

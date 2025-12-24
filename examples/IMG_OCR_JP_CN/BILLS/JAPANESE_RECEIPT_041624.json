@@ -1,0 +1,418 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "CARDNET",
+            "points": [
+                [
+                    353.838974,
+                    135.169374
+                ],
+                [
+                    586.775731,
+                    210.793573
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "[コード支払い 取扱票]",
+            "points": [
+                [
+                    331.012173,
+                    244.562858
+                ],
+                [
+                    644.445119,
+                    275.402226
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "052-259-3955",
+            "points": [
+                [
+                    360.497715,
+                    311.506918
+                ],
+                [
+                    549.914886,
+                    340.163262
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "端末番号",
+            "points": [
+                [
+                    214.481163,
+                    339.925472
+                ],
+                [
+                    345.617496,
+                    372.496982
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "60522-510-81535",
+            "points": [
+                [
+                    456.098059,
+                    342.898121
+                ],
+                [
+                    694.623411,
+                    372.505716
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ご利用日",
+            "points": [
+                [
+                    215.432415,
+                    375.359452
+                ],
+                [
+                    339.94791399999997,
+                    408.177504
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2024/11/29 16:22:51",
+            "points": [
+                [
+                    425.182511,
+                    376.78632
+                ],
+                [
+                    726.728018,
+                    407.70187
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "カードID",
+            "points": [
+                [
+                    210.676176,
+                    408.653103
+                ],
+                [
+                    313.529826,
+                    439.093036
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "90XXXXXXXXXXXXXX 　BC",
+            "points": [
+                [
+                    409.01133,
+                    408.653103
+                ],
+                [
+                    730.889726,
+                    440.995521
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "取引通番",
+            "points": [
+                [
+                    212.103044,
+                    441.946772
+                ],
+                [
+                    346.823494,
+                    475.24044100000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "03428",
+            "points": [
+                [
+                    650.152627,
+                    443.135831
+                ],
+                [
+                    732.6733160000001,
+                    472.386705
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "取引内容",
+            "points": [
+                [
+                    211.627428,
+                    475.834971
+                ],
+                [
+                    345.634435,
+                    510.91223
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "売上",
+            "points": [
+                [
+                    665.848155,
+                    474.764824
+                ],
+                [
+                    733.862375,
+                    508.53411
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "金額",
+            "points": [
+                [
+                    210.676176,
+                    510.3177
+                ],
+                [
+                    279.64162899999997,
+                    544.681534
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "¥1, 638",
+            "points": [
+                [
+                    536.478491,
+                    511.506759
+                ],
+                [
+                    732.0787859999999,
+                    544.2058979999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "PayPay",
+            "points": [
+                [
+                    211.151775,
+                    547.416356
+                ],
+                [
+                    312.45964399999997,
+                    579.8776869999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "注文番号",
+            "points": [
+                [
+                    210.200524,
+                    581.304555
+                ],
+                [
+                    345.753312,
+                    616.5007270000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2411291622521758",
+            "points": [
+                [
+                    377.620129,
+                    581.304555
+                ],
+                [
+                    638.261959,
+                    615.0738590000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "102　 JCB",
+            "points": [
+                [
+                    208.298039,
+                    618.759932
+                ],
+                [
+                    326.133829,
+                    649.794395
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "CARDNET",
+            "points": [
+                [
+                    580.655201,
+                    697.865485
+                ],
+                [
+                    755.446954,
+                    758.7453330000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "お客様控",
+            "points": [
+                [
+                    621.570575,
+                    970.079493
+                ],
+                [
+                    761.5387109999999,
+                    1010.952827
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "CARENET",
+            "points": [
+                [
+                    233.158633,
+                    192.794115
+                ],
+                [
+                    401.254857,
+                    218.62785
+                ],
+                [
+                    394.177122,
+                    244.562858
+                ],
+                [
+                    232.450859,
+                    241.984378
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "取消返品用バーコード",
+            "points": [
+                [
+                    655.125787,
+                    931.112978
+                ],
+                [
+                    655.721317,
+                    969.621107
+                ],
+                [
+                    304.776853,
+                    974.331637
+                ],
+                [
+                    304.280608,
+                    936.08064
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "加盟店名　アミカオオステン",
+            "points": [
+                [
+                    215.297374,
+                    272.48424
+                ],
+                [
+                    485.434129,
+                    280.288094
+                ],
+                [
+                    486.925482,
+                    311.506918
+                ],
+                [
+                    214.61949,
+                    306.074741
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "JAPANESE_RECEIPT_041624.jpeg",
+    "imageData": null,
+    "imageHeight": 1280,
+    "imageWidth": 960
+}

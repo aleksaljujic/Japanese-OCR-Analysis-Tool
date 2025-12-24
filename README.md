@@ -45,4 +45,4 @@ This tool is designed for:
 
 ---
 
-Generated OCR outputs and environment variables are intentionally excluded form version control.
+It is recommended to run the **agent service** and the **OCR service** in separate Python environments, as they have different and often conflicting dependencies, which helps avoid instability and dependency hell.

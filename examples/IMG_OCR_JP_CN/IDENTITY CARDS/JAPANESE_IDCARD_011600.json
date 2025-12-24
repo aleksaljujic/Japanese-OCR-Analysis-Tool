@@ -1,0 +1,554 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "旅 券",
+            "points": [
+                [
+                    102.605571,
+                    67.096234
+                ],
+                [
+                    191.25793,
+                    96.089458
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "PASSPORT",
+            "points": [
+                [
+                    77.51528,
+                    99.43483
+                ],
+                [
+                    214.117971,
+                    125.082682
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "日 本 国",
+            "points": [
+                [
+                    380.829011,
+                    39.775696
+                ],
+                [
+                    524.122446,
+                    68.76892000000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "JAPAN",
+            "points": [
+                [
+                    608.314309,
+                    42.005944
+                ],
+                [
+                    686.930552,
+                    67.096234
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "型/Type",
+            "points": [
+                [
+                    310.205468,
+                    77.36191
+                ],
+                [
+                    370.569619,
+                    91.185761
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "P",
+            "points": [
+                [
+                    296.842411,
+                    103.627227
+                ],
+                [
+                    312.50944300000003,
+                    126.20618400000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "発行国/Issuing country",
+            "points": [
+                [
+                    419.413893,
+                    76.440319
+                ],
+                [
+                    578.848979,
+                    90.724965
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "JPN",
+            "points": [
+                [
+                    424.482639,
+                    103.627227
+                ],
+                [
+                    479.778044,
+                    128.51015900000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "旅券番号/Passport No.",
+            "points": [
+                [
+                    605.575092,
+                    76.901115
+                ],
+                [
+                    759.019842,
+                    90.264171
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "MJ4564879",
+            "points": [
+                [
+                    587.14329,
+                    100.862457
+                ],
+                [
+                    751.186326,
+                    127.12777500000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "姓/Surname",
+            "points": [
+                [
+                    310.205468,
+                    126.666979
+                ],
+                [
+                    394.070166,
+                    138.186855
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "GAIMU",
+            "points": [
+                [
+                    297.672396,
+                    153.611952
+                ],
+                [
+                    386.237683,
+                    174.678452
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "名/Given name",
+            "points": [
+                [
+                    310.785218,
+                    175.484919
+                ],
+                [
+                    413.79319699999996,
+                    186.501488
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "NATSUKO",
+            "points": [
+                [
+                    298.462432,
+                    200.31083
+                ],
+                [
+                    422.533371,
+                    221.119373
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "国籍/Nationality",
+            "points": [
+                [
+                    310.687451,
+                    222.1598
+                ],
+                [
+                    435.278603,
+                    236.72578
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "JAPAN",
+            "points": [
+                [
+                    297.942218,
+                    248.430586
+                ],
+                [
+                    386.89874000000003,
+                    268.718916
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "生年月日/Date of birth",
+            "points": [
+                [
+                    605.935216,
+                    220.630302
+                ],
+                [
+                    758.435827,
+                    233.219471
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "18 JUN 1974",
+            "points": [
+                [
+                    590.198755,
+                    246.094757
+                ],
+                [
+                    784.1863989999999,
+                    267.839685
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "性別/Sex",
+            "points": [
+                [
+                    308.819574,
+                    270.162817
+                ],
+                [
+                    374.94418199999996,
+                    283.31849800000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "F",
+            "points": [
+                [
+                    298.779712,
+                    296.47418
+                ],
+                [
+                    312.28159500000004,
+                    315.8615
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "本 籍/Registered Domicile",
+            "points": [
+                [
+                    419.258056,
+                    269.470413
+                ],
+                [
+                    607.938221,
+                    281.93369
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "KANAGAWA",
+            "points": [
+                [
+                    425.143492,
+                    295.089371
+                ],
+                [
+                    567.086368,
+                    316.90010600000005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "発行年月日/Date of issue",
+            "points": [
+                [
+                    310.896787,
+                    319.323521
+                ],
+                [
+                    485.03646200000003,
+                    329.709585
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "27 OCT 1999",
+            "points": [
+                [
+                    298.43351,
+                    341.82666
+                ],
+                [
+                    495.076324,
+                    365.368405
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "有効期間満了日/Date of expiry",
+            "points": [
+                [
+                    311.242989,
+                    366.587266
+                ],
+                [
+                    518.934959,
+                    380.48472
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "27 OCT 2009",
+            "points": [
+                [
+                    298.871708,
+                    390.214192
+                ],
+                [
+                    496.836385,
+                    413.189425
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "発行官庁/Authority",
+            "points": [
+                [
+                    310.654379,
+                    414.383959
+                ],
+                [
+                    440.59317799999997,
+                    427.744898
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "MINISTRY OF",
+            "points": [
+                [
+                    298.565053,
+                    443.306429
+                ],
+                [
+                    417.693963,
+                    457.092089
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "FOREIGN AFFAIRS",
+            "points": [
+                [
+                    298.587117,
+                    458.180437
+                ],
+                [
+                    458.090831,
+                    472.06193199999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "所持人自署/Signature of bearer",
+            "points": [
+                [
+                    570.025283,
+                    317.811954
+                ],
+                [
+                    785.393705,
+                    330.557187
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "外務夏子",
+            "points": [
+                [
+                    532.309798,
+                    355.007225
+                ],
+                [
+                    786.434132,
+                    423.935524
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "P<JPNGAIMU<<NATSUKO<<<<<<<<<<<<<<<<<<<<<<<<<",
+            "points": [
+                [
+                    42.427309,
+                    544.298189
+                ],
+                [
+                    844.082906,
+                    538.889036
+                ],
+                [
+                    843.881176,
+                    517.505662
+                ],
+                [
+                    40.700631,
+                    520.124708
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "MJ45648798JPN7406184F0910271<<<<<<<<<<<<<<<8",
+            "points": [
+                [
+                    39.911354,
+                    589.8564
+                ],
+                [
+                    842.068024,
+                    586.05771
+                ],
+                [
+                    840.801794,
+                    561.999341
+                ],
+                [
+                    43.076929,
+                    565.164916
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "JAPANESE_IDCARD_011600.JPG",
+    "imageData": null,
+    "imageHeight": 640,
+    "imageWidth": 893
+}

@@ -1,0 +1,474 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "北海道",
+            "points": [
+                [
+                    571.274841,
+                    512.30011
+                ],
+                [
+                    645.847168,
+                    540.294251
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "甲種2類",
+            "points": [
+                [
+                    77.442672,
+                    269.720599
+                ],
+                [
+                    171.848503,
+                    293.226049
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "H12.03.21",
+            "points": [
+                [
+                    205.434219,
+                    514.333679
+                ],
+                [
+                    355.508636,
+                    542.492798
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "種類等",
+            "points": [
+                [
+                    89.760919,
+                    184.046926
+                ],
+                [
+                    163.254526,
+                    209.80983200000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "平成32年",
+            "points": [
+                [
+                    704.99569,
+                    363.168375
+                ],
+                [
+                    854.545067,
+                    394.864817
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "00011",
+            "points": [
+                [
+                    420.152008,
+                    513.883606
+                ],
+                [
+                    516.717468,
+                    540.830383
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "3月19日まで",
+            "points": [
+                [
+                    701.702631,
+                    396.452993
+                ],
+                [
+                    865.735007,
+                    421.358101
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "甲種1類",
+            "points": [
+                [
+                    78.174712,
+                    241.489631
+                ],
+                [
+                    171.341287,
+                    265.35938600000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "甲種4類",
+            "points": [
+                [
+                    77.427071,
+                    324.489136
+                ],
+                [
+                    173.660981,
+                    349.03335599999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "甲種3類",
+            "points": [
+                [
+                    79.793559,
+                    296.285096
+                ],
+                [
+                    175.09268500000002,
+                    322.12039300000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "乙種3類",
+            "points": [
+                [
+                    80.452705,
+                    434.676476
+                ],
+                [
+                    175.517761,
+                    461.345513
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "交付知事",
+            "points": [
+                [
+                    552.576782,
+                    180.896515
+                ],
+                [
+                    648.098266,
+                    206.512451
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "甲種5類",
+            "points": [
+                [
+                    77.965699,
+                    352.966433
+                ],
+                [
+                    174.268494,
+                    378.573946
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "交付年月日",
+            "points": [
+                [
+                    213.639736,
+                    185.576614
+                ],
+                [
+                    354.798139,
+                    208.313431
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "写真の書換えは",
+            "points": [
+                [
+                    704.044533,
+                    326.472677
+                ],
+                [
+                    883.679665,
+                    353.581594
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "乙種2類",
+            "points": [
+                [
+                    79.305989,
+                    407.611474
+                ],
+                [
+                    175.65790199999998,
+                    433.018762
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "交付番号",
+            "points": [
+                [
+                    413.220184,
+                    182.671381
+                ],
+                [
+                    507.205078,
+                    208.366831
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "甲種特類",
+            "points": [
+                [
+                    79.801146,
+                    215.031746
+                ],
+                [
+                    173.702461,
+                    237.551085
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "乙種6類",
+            "points": [
+                [
+                    81.286942,
+                    518.880466
+                ],
+                [
+                    174.315734,
+                    545.548763
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "乙種1類",
+            "points": [
+                [
+                    79.992723,
+                    380.689977
+                ],
+                [
+                    174.653396,
+                    406.406067
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2014 1200 0655",
+            "points": [
+                [
+                    689.680921,
+                    423.355011
+                ],
+                [
+                    908.851345,
+                    454.748745
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "乙種5類",
+            "points": [
+                [
+                    81.017956,
+                    491.462518
+                ],
+                [
+                    172.936543,
+                    514.656569
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "乙種4類",
+            "points": [
+                [
+                    81.308685,
+                    464.353159
+                ],
+                [
+                    173.539247,
+                    487.534906
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "乙種7類",
+            "points": [
+                [
+                    79.980796,
+                    549.156598
+                ],
+                [
+                    175.774276,
+                    573.0179850000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "消防設備士免状",
+            "points": [
+                [
+                    130.78958,
+                    60.407219
+                ],
+                [
+                    618.807449,
+                    107.695772
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "氏 名 田頭 寛",
+            "points": [
+                [
+                    74.701782,
+                    110.070787
+                ],
+                [
+                    329.64633,
+                    144.092103
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "生年月日 昭和50年02月24日",
+            "points": [
+                [
+                    74.701782,
+                    147.96795
+                ],
+                [
+                    426.542485,
+                    175.529523
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "本籍 北海道",
+            "points": [
+                [
+                    475.879724,
+                    144.843818
+                ],
+                [
+                    630.130572,
+                    174.206289
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "北海道知事",
+            "points": [
+                [
+                    697.430992,
+                    532.955371
+                ],
+                [
+                    893.892616,
+                    562.139888
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "JAPANESE_IDCARD_011605.jpg",
+    "imageData": null,
+    "imageHeight": 640,
+    "imageWidth": 972
+}

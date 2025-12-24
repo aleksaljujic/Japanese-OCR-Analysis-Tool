@@ -1,0 +1,1018 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "品目別取报社数",
+            "points": [
+                [
+                    47.751044,
+                    4.518035
+                ],
+                [
+                    198.43296800000002,
+                    25.89433
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "フライ類",
+            "points": [
+                [
+                    217.821531,
+                    27.616626
+                ],
+                [
+                    322.607292,
+                    45.975784000000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "品 目",
+            "points": [
+                [
+                    120.806469,
+                    49.004939
+                ],
+                [
+                    320.62872400000003,
+                    67.00922800000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "えびフライ",
+            "points": [
+                [
+                    13.902398,
+                    69.879775
+                ],
+                [
+                    95.910669,
+                    87.174036
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "雞唐揚",
+            "points": [
+                [
+                    13.623458,
+                    90.242373
+                ],
+                [
+                    72.200794,
+                    108.652393
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "かき揚",
+            "points": [
+                [
+                    14.460278,
+                    111.999669
+                ],
+                [
+                    68.853519,
+                    130.130749
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "白身魚フライ",
+            "points": [
+                [
+                    14.460278,
+                    133.478026
+                ],
+                [
+                    117.110086,
+                    151.609106
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "あじフライ",
+            "points": [
+                [
+                    13.902398,
+                    154.677443
+                ],
+                [
+                    93.400211,
+                    172.25064400000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "豚串かつ",
+            "points": [
+                [
+                    13.344519,
+                    174.761101
+                ],
+                [
+                    88.937177,
+                    193.450061
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "とんかつ",
+            "points": [
+                [
+                    14.181338,
+                    196.518397
+                ],
+                [
+                    84.753081,
+                    213.812658
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "えびカツ",
+            "points": [
+                [
+                    14.739217,
+                    217.438874
+                ],
+                [
+                    80.84792499999999,
+                    236.127834
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "いか唐揚",
+            "points": [
+                [
+                    12.786639,
+                    238.638291
+                ],
+                [
+                    90.05293499999999,
+                    256.76937100000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "いかフライ",
+            "points": [
+                [
+                    13.623458,
+                    260.116648
+                ],
+                [
+                    98.142186,
+                    277.968789
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "鷄竜田揚",
+            "points": [
+                [
+                    12.786639,
+                    279.921366
+                ],
+                [
+                    91.16869299999999,
+                    298.88926499999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "たこ唐揚",
+            "points": [
+                [
+                    14.181338,
+                    301.399723
+                ],
+                [
+                    84.474141,
+                    320.646562
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "取扱社数",
+            "points": [
+                [
+                    442.539325,
+                    48.44114
+                ],
+                [
+                    520.168242,
+                    67.771661
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10",
+            "points": [
+                [
+                    472.609024,
+                    70.839997
+                ],
+                [
+                    492.246379,
+                    87.409015
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10",
+            "points": [
+                [
+                    472.30219,
+                    92.625188
+                ],
+                [
+                    492.246378,
+                    109.194206
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8",
+            "points": [
+                [
+                    474.756859,
+                    113.489877
+                ],
+                [
+                    486.72337200000004,
+                    130.058895
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8",
+            "points": [
+                [
+                    475.063693,
+                    134.047733
+                ],
+                [
+                    487.643873,
+                    151.537252
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "7",
+            "points": [
+                [
+                    475.984194,
+                    155.219255
+                ],
+                [
+                    486.723372,
+                    172.708774
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5",
+            "points": [
+                [
+                    475.984194,
+                    176.390778
+                ],
+                [
+                    487.030206,
+                    193.880297
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5",
+            "points": [
+                [
+                    475.063693,
+                    197.562301
+                ],
+                [
+                    487.33704,
+                    215.05182
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    475.984194,
+                    219.040658
+                ],
+                [
+                    487.950707,
+                    236.223343
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    475.67736,
+                    240.519014
+                ],
+                [
+                    486.109705,
+                    256.781198
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    475.370527,
+                    261.383704
+                ],
+                [
+                    486.10970499999996,
+                    278.25955600000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    475.063693,
+                    281.327892
+                ],
+                [
+                    486.723372,
+                    297.89691000000005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    474.756859,
+                    302.499415
+                ],
+                [
+                    487.030206,
+                    319.6821
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "各1",
+            "points": [
+                [
+                    466.321282,
+                    387.047911
+                ],
+                [
+                    496.134161,
+                    408.284483
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "いわしフライ、かきフライ、サヨリ磯部フライ、えびフ",
+            "points": [
+                [
+                    13.892707,
+                    325.173981
+                ],
+                [
+                    412.162804,
+                    342.97033400000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "リッター、れんこん磯部しんじょ、かれい唐揚、野菜",
+            "points": [
+                [
+                    13.585873,
+                    346.652337
+                ],
+                [
+                    414.617473,
+                    365.676024
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "スティック揚、海鮮かき揚、野菜かき揚、天丼セット、",
+            "points": [
+                [
+                    14.506374,
+                    367.82386
+                ],
+                [
+                    418.913145,
+                    386.23388
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "肉詰椎茸フライ、肉詰ピーマンフライ、野菜コロッケ、",
+            "points": [
+                [
+                    13.892707,
+                    388.68855
+                ],
+                [
+                    422.901983,
+                    407.712237
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ポテトコロッケ、海鮮ふっくら揚、揚げだし豆腐、えび",
+            "points": [
+                [
+                    13.585873,
+                    410.166906
+                ],
+                [
+                    424.129317,
+                    428.270092
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "天ぷら、油調ナス、えびポーション、厚揚、磯部フリッ",
+            "points": [
+                [
+                    13.892707,
+                    430.417928
+                ],
+                [
+                    427.81132099999996,
+                    449.748449
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ター、オニオンリング",
+            "points": [
+                [
+                    14.19954,
+                    451.589451
+                ],
+                [
+                    178.35555100000002,
+                    470.919972
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "フライ類以外",
+            "points": [
+                [
+                    638.012398,
+                    28.200354
+                ],
+                [
+                    893.8503079999999,
+                    46.763791
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "品 目",
+            "points": [
+                [
+                    639.362466,
+                    48.788893
+                ],
+                [
+                    796.98292,
+                    66.339779
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "たこ焼き",
+            "points": [
+                [
+                    531.357016,
+                    70.389983
+                ],
+                [
+                    599.872973,
+                    87.94086899999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "お好み焼き",
+            "points": [
+                [
+                    532.03205,
+                    90.978522
+                ],
+                [
+                    622.824132,
+                    109.204442
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "春巻",
+            "points": [
+                [
+                    531.357016,
+                    112.242095
+                ],
+                [
+                    570.1714750000001,
+                    131.14304900000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ギョウザ",
+            "points": [
+                [
+                    531.357016,
+                    133.505668
+                ],
+                [
+                    600.21049,
+                    152.40662199999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ロールキャベツ",
+            "points": [
+                [
+                    532.03205,
+                    155.444275
+                ],
+                [
+                    653.2006640000001,
+                    172.657644
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "煮魚",
+            "points": [
+                [
+                    531.019498,
+                    175.695297
+                ],
+                [
+                    569.833957,
+                    194.596251
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "燒魚",
+            "points": [
+                [
+                    529.66943,
+                    197.296387
+                ],
+                [
+                    569.49644,
+                    215.522307
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ウインナー",
+            "points": [
+                [
+                    532.03205,
+                    218.55996
+                ],
+                [
+                    617.761376,
+                    237.12339699999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "取扱社数",
+            "points": [
+                [
+                    916.801466,
+                    48.113859
+                ],
+                [
+                    994.430383,
+                    67.35233
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6",
+            "points": [
+                [
+                    948.865584,
+                    71.065017
+                ],
+                [
+                    962.0287480000001,
+                    87.94086899999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5",
+            "points": [
+                [
+                    949.878135,
+                    91.653556
+                ],
+                [
+                    961.691231,
+                    108.866925
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4",
+            "points": [
+                [
+                    949.203101,
+                    113.592163
+                ],
+                [
+                    962.028748,
+                    129.792981
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4",
+            "points": [
+                [
+                    949.878135,
+                    134.180702
+                ],
+                [
+                    961.691231,
+                    151.056554
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4",
+            "points": [
+                [
+                    949.203101,
+                    155.444275
+                ],
+                [
+                    963.3788159999999,
+                    172.320127
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    949.878135,
+                    177.045365
+                ],
+                [
+                    962.0287480000001,
+                    193.921217
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    949.878135,
+                    197.971421
+                ],
+                [
+                    962.703782,
+                    215.18479
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    949.540618,
+                    218.897477
+                ],
+                [
+                    962.366265,
+                    235.77332900000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "各1",
+            "points": [
+                [
+                    940.160194,
+                    387.429077
+                ],
+                [
+                    969.169922,
+                    407.512735
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "パン、調理ソース、ひじき3種、れんこん3種、",
+            "points": [
+                [
+                    530.739347,
+                    324.992603
+                ],
+                [
+                    883.877002,
+                    344.79732099999995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "なすのオランダ煮、ピザ、小籠包、信田巻き、",
+            "points": [
+                [
+                    531.576166,
+                    346.749899
+                ],
+                [
+                    883.598062,
+                    365.99673800000005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "シュウマイ、湯葉巻き、ハンバーク、グリルチキ",
+            "points": [
+                [
+                    532.134045,
+                    367.670376
+                ],
+                [
+                    899.4976240000001,
+                    385.801456
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ン、骨なしトラウト塩焼、骨なしさば塩焼、骨なし",
+            "points": [
+                [
+                    531.297226,
+                    388.311914
+                ],
+                [
+                    903.68172,
+                    407.000874
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "さわら西京焼漬、マンゴー、たいやき、タルト、",
+            "points": [
+                [
+                    532.134045,
+                    409.511331
+                ],
+                [
+                    886.108519,
+                    429.594989
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "チョコレートブラウニー、ケーキ、ワッフル、",
+            "points": [
+                [
+                    532.134045,
+                    431.547567
+                ],
+                [
+                    860.725006,
+                    449.957587
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ニューヨークチーズケーキ",
+            "points": [
+                [
+                    531.576166,
+                    452.189104
+                ],
+                [
+                    737.4336609999999,
+                    471.99382199999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "JAPANESE_TABLE_023854.png",
+    "imageData": null,
+    "imageHeight": 501,
+    "imageWidth": 1021
+}

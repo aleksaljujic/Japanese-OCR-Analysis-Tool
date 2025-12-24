@@ -1,0 +1,1210 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "表11 役職段階、退職事由、勤年数別平均退職金",
+            "points": [
+                [
+                    14.607876,
+                    18.925227
+                ],
+                [
+                    906.303808,
+                    65.240182
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "〔单位:千円(3年移動平均值)〕",
+            "points": [
+                [
+                    975.05671,
+                    104.526588
+                ],
+                [
+                    1462.960996,
+                    146.596707
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "勤続",
+            "points": [
+                [
+                    68.65901,
+                    191.458258
+                ],
+                [
+                    126.907883,
+                    222.163077
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "年数",
+            "points": [
+                [
+                    68.207475,
+                    226.226951
+                ],
+                [
+                    128.93982,
+                    261.4472
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "計",
+            "points": [
+                [
+                    303.009128,
+                    157.141078
+                ],
+                [
+                    342.293252,
+                    195.747889
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "部長・",
+            "points": [
+                [
+                    171.158993,
+                    221.962007
+                ],
+                [
+                    246.89619800000003,
+                    247.90095
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "部次長",
+            "points": [
+                [
+                    173.489741,
+                    251.783376
+                ],
+                [
+                    253.26827000000003,
+                    281.98707
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "課長・",
+            "points": [
+                [
+                    283.854289,
+                    204.884817
+                ],
+                [
+                    354.202133,
+                    231.902463
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "課長代",
+            "points": [
+                [
+                    283.089639,
+                    237.000137
+                ],
+                [
+                    363.37793899999997,
+                    265.547084
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "理",
+            "points": [
+                [
+                    306.793804,
+                    268.860577
+                ],
+                [
+                    336.23284700000005,
+                    297.280079
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "係長",
+            "points": [
+                [
+                    404.46261,
+                    220.575445
+                ],
+                [
+                    460.59304299999997,
+                    248.332257
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "以下",
+            "points": [
+                [
+                    406.313065,
+                    252.649988
+                ],
+                [
+                    460.59304399999996,
+                    282.103045
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "定年",
+            "points": [
+                [
+                    608.158479,
+                    157.357771
+                ],
+                [
+                    694.7723530000001,
+                    195.738808
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "部長・",
+            "points": [
+                [
+                    499.788482,
+                    219.752614
+                ],
+                [
+                    576.550538,
+                    249.308068
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "部次長",
+            "points": [
+                [
+                    503.575954,
+                    252.373116
+                ],
+                [
+                    582.462387,
+                    282.194485
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "課長・",
+            "points": [
+                [
+                    612.411213,
+                    203.945256
+                ],
+                [
+                    683.39625,
+                    232.492203
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "課長代",
+            "points": [
+                [
+                    611.901431,
+                    236.825227
+                ],
+                [
+                    695.630658,
+                    264.607524
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "理",
+            "points": [
+                [
+                    635.605595,
+                    268.685667
+                ],
+                [
+                    668.10324,
+                    297.869819
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "係長",
+            "points": [
+                [
+                    735.265072,
+                    219.493145
+                ],
+                [
+                    790.44734,
+                    248.167538
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "以下",
+            "points": [
+                [
+                    736.284613,
+                    252.882887
+                ],
+                [
+                    789.682689,
+                    281.429834
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "会社都合",
+            "points": [
+                [
+                    909.78125,
+                    155.072616
+                ],
+                [
+                    1053.65406,
+                    196.399423
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "部長・",
+            "points": [
+                [
+                    832.370594,
+                    220.146922
+                ],
+                [
+                    903.767274,
+                    248.67475199999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "部次長",
+            "points": [
+                [
+                    832.678998,
+                    252.221466
+                ],
+                [
+                    912.556931,
+                    281.982927
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "課長・",
+            "points": [
+                [
+                    942.164197,
+                    204.726466
+                ],
+                [
+                    1013.869295,
+                    232.48327799999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "課長代",
+            "points": [
+                [
+                    941.23897,
+                    235.875783
+                ],
+                [
+                    1022.658953,
+                    264.86622700000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "理",
+            "points": [
+                [
+                    965.911711,
+                    269.492362
+                ],
+                [
+                    999.528276,
+                    298.637015
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "係長",
+            "points": [
+                [
+                    1063.060554,
+                    220.455327
+                ],
+                [
+                    1120.733023,
+                    249.13736600000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "以下",
+            "points": [
+                [
+                    1065.219398,
+                    253.146693
+                ],
+                [
+                    1118.882568,
+                    282.445541
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "自己都合",
+            "points": [
+                [
+                    1242.246188,
+                    154.764204
+                ],
+                [
+                    1383.189094,
+                    195.474195
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "部長・",
+            "points": [
+                [
+                    1162.98505,
+                    221.072149
+                ],
+                [
+                    1236.077989,
+                    248.67475199999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "部次長",
+            "points": [
+                [
+                    1162.368241,
+                    252.221466
+                ],
+                [
+                    1242.554578,
+                    281.520314
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "課長・",
+            "points": [
+                [
+                    1273.39549,
+                    204.726466
+                ],
+                [
+                    1344.3295560000001,
+                    232.02066499999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "課長代",
+            "points": [
+                [
+                    1271.853454,
+                    237.109414
+                ],
+                [
+                    1352.6566,
+                    264.403613
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "理",
+            "points": [
+                [
+                    1295.60094,
+                    270.109184
+                ],
+                [
+                    1326.750242,
+                    297.24917300000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "係長",
+            "points": [
+                [
+                    1393.9834,
+                    220.455327
+                ],
+                [
+                    1449.959638,
+                    248.212139
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "以下",
+            "points": [
+                [
+                    1396.142272,
+                    252.838274
+                ],
+                [
+                    1448.109183,
+                    281.0577
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "２０年",
+            "points": [
+                [
+                    58.146753,
+                    320.429188
+                ],
+                [
+                    141.737924,
+                    350.656357
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "12,034",
+            "points": [
+                [
+                    175.696853,
+                    323.041423
+                ],
+                [
+                    254.80992500000002,
+                    351.77588000000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10,862",
+            "points": [
+                [
+                    283.544434,
+                    322.295068
+                ],
+                [
+                    366.949029,
+                    351.02952500000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6,967",
+            "points": [
+                [
+                    405.19948,
+                    323.787762
+                ],
+                [
+                    474.983167,
+                    352.70881299999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "9,308",
+            "points": [
+                [
+                    514.166534,
+                    323.041406
+                ],
+                [
+                    585.816119,
+                    353.268575
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8,953",
+            "points": [
+                [
+                    625.745858,
+                    323.041406
+                ],
+                [
+                    695.529545,
+                    352.70881199999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "7,083",
+            "points": [
+                [
+                    734.712912,
+                    322.668237
+                ],
+                [
+                    804.869786,
+                    352.14905
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "21,541",
+            "points": [
+                [
+                    832.111566,
+                    323.414593
+                ],
+                [
+                    913.463687,
+                    352.14905000000005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "16,505",
+            "points": [
+                [
+                    943.690856,
+                    322.668237
+                ],
+                [
+                    1024.856401,
+                    353.268575
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10,728",
+            "points": [
+                [
+                    1054.896994,
+                    322.668237
+                ],
+                [
+                    1134.569828,
+                    353.268575
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8,665",
+            "points": [
+                [
+                    1174.686143,
+                    321.921882
+                ],
+                [
+                    1243.7234919999999,
+                    353.268575
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6,064",
+            "points": [
+                [
+                    1285.145908,
+                    322.668237
+                ],
+                [
+                    1353.4369179999999,
+                    351.58928799999995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4,920",
+            "points": [
+                [
+                    1393.73981,
+                    323.787762
+                ],
+                [
+                    1465.3893950000001,
+                    352.70881299999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "２１年",
+            "points": [
+                [
+                    58.519906,
+                    384.988437
+                ],
+                [
+                    140.245214,
+                    415.588775
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "12,034",
+            "points": [
+                [
+                    174.577329,
+                    387.600656
+                ],
+                [
+                    254.436739,
+                    418.94734900000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "11,530",
+            "points": [
+                [
+                    284.290755,
+                    387.227487
+                ],
+                [
+                    364.150165,
+                    416.7083
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "7,441",
+            "points": [
+                [
+                    403.706667,
+                    387.973825
+                ],
+                [
+                    473.490371,
+                    416.335113
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "11,086",
+            "points": [
+                [
+                    504.463912,
+                    388.346995
+                ],
+                [
+                    583.76356,
+                    417.454639
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10,124",
+            "points": [
+                [
+                    613.804153,
+                    387.600656
+                ],
+                [
+                    695.716037,
+                    418.014401
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6,058",
+            "points": [
+                [
+                    734.712827,
+                    387.973825
+                ],
+                [
+                    805.9892249999999,
+                    418.574163
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "17,130",
+            "points": [
+                [
+                    833.604175,
+                    387.600656
+                ],
+                [
+                    915.1428890000001,
+                    416.33511300000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "17,244",
+            "points": [
+                [
+                    942.571246,
+                    386.854301
+                ],
+                [
+                    1025.975841,
+                    419.693688
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "11,867",
+            "points": [
+                [
+                    1051.91152,
+                    386.854301
+                ],
+                [
+                    1134.5697420000001,
+                    418.014401
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8,913",
+            "points": [
+                [
+                    1175.432396,
+                    389.839706
+                ],
+                [
+                    1245.4026939999999,
+                    418.574163
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6,624",
+            "points": [
+                [
+                    1284.399518,
+                    388.346995
+                ],
+                [
+                    1354.929578,
+                    418.574164
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5,195",
+            "points": [
+                [
+                    1395.23247,
+                    389.466519
+                ],
+                [
+                    1464.083243,
+                    417.454638
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "２２年",
+            "points": [
+                [
+                    58.519906,
+                    450.253902
+                ],
+                [
+                    141.148838,
+                    482.57361599999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "12,431",
+            "points": [
+                [
+                    176.924332,
+                    452.104356
+                ],
+                [
+                    253.101342,
+                    481.403204
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "11,889",
+            "points": [
+                [
+                    283.325446,
+                    450.870711
+                ],
+                [
+                    364.128592,
+                    480.940591
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8,378",
+            "points": [
+                [
+                    405.607295,
+                    452.322247
+                ],
+                [
+                    476.62247,
+                    480.030485
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "11,768",
+            "points": [
+                [
+                    503.714969,
+                    451.09077
+                ],
+                [
+                    584.992467,
+                    481.877701
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10,449",
+            "points": [
+                [
+                    611.674499,
+                    451.09077
+                ],
+                [
+                    694.593941,
+                    481.26196200000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6,938",
+            "points": [
+                [
+                    735.232765,
+                    452.322247
+                ],
+                [
+                    804.605958,
+                    480.235718
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "17,183",
+            "points": [
+                [
+                    835.103321,
+                    450.943333
+                ],
+                [
+                    915.1354630000001,
+                    480.85900399999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "18,060",
+            "points": [
+                [
+                    942.121271,
+                    450.634929
+                ],
+                [
+                    1024.774871,
+                    480.39639
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "12,498",
+            "points": [
+                [
+                    1052.223293,
+                    450.943333
+                ],
+                [
+                    1135.339506,
+                    480.85900399999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "9,269",
+            "points": [
+                [
+                    1176.111198,
+                    452.269497
+                ],
+                [
+                    1244.809308,
+                    480.087986
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6,989",
+            "points": [
+                [
+                    1285.010425,
+                    452.269497
+                ],
+                [
+                    1354.726285,
+                    480.596861
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5,725",
+            "points": [
+                [
+                    1393.909652,
+                    451.590992
+                ],
+                [
+                    1466.6787610000001,
+                    481.10573600000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "JAPANESE_TABLE_023630.png",
+    "imageData": null,
+    "imageHeight": 501,
+    "imageWidth": 1490
+}

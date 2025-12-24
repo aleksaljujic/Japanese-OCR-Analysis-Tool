@@ -1,0 +1,218 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "√ プレゼン資料作成",
+            "points": [
+                [
+                    160.764014,
+                    141.568343
+                ],
+                [
+                    378.761372,
+                    160.918299
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "✓ 出張費用清算",
+            "points": [
+                [
+                    165.20728,
+                    162.92002
+                ],
+                [
+                    344.04841799999997,
+                    185.726114
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "A社アポイント",
+            "points": [
+                [
+                    198.284849,
+                    188.748209
+                ],
+                [
+                    343.277019,
+                    209.626824
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "調査データ レポート",
+            "points": [
+                [
+                    196.803776,
+                    212.652071
+                ],
+                [
+                    371.818781,
+                    234.304345
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "月次資料提出",
+            "points": [
+                [
+                    196.310069,
+                    237.890418
+                ],
+                [
+                    364.104791,
+                    257.846291
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "√ 請求書処理",
+            "points": [
+                [
+                    158.295528,
+                    260.003443
+                ],
+                [
+                    348.676811,
+                    283.146883
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "✓ SNS投稿スケジュール",
+            "points": [
+                [
+                    161.257721,
+                    285.358559
+                ],
+                [
+                    390.332357,
+                    306.043016
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "配布用サンプル pick up",
+            "points": [
+                [
+                    197.951234,
+                    311.144202
+                ],
+                [
+                    396.169934,
+                    333.733476
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "モニター返却",
+            "points": [
+                [
+                    196.803776,
+                    334.922136
+                ],
+                [
+                    312.763724,
+                    354.278506
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "チームmtg 議事録",
+            "points": [
+                [
+                    197.297459,
+                    356.75325
+                ],
+                [
+                    367.96178599999996,
+                    380.37832799999995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "√ 入稿データ check",
+            "points": [
+                [
+                    161.257721,
+                    382.480351
+                ],
+                [
+                    367.961786,
+                    406.967337
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "プロモーション人社アポ",
+            "points": [
+                [
+                    452.044275,
+                    140.539514
+                ],
+                [
+                    627.151844,
+                    162.53107
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "√ 定例会・会議室予約",
+            "points": [
+                [
+                    399.712548,
+                    163.733984
+                ],
+                [
+                    627.1518450000001,
+                    188.748209
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "JAPANESE_NOTE_DZ_2025040300002.jpg",
+    "imageData": null,
+    "imageHeight": 512,
+    "imageWidth": 768
+}

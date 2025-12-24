@@ -1,0 +1,1786 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Name:_吉岡由紀子_",
+            "points": [
+                [
+                    629.050781,
+                    1745.59893
+                ],
+                [
+                    945.918013,
+                    1768.7206370000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "To be made payable to 株式会社オーシャン商会",
+            "points": [
+                [
+                    19.883789,
+                    1741.94311
+                ],
+                [
+                    466.861424,
+                    1769.657226
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Payment Terms",
+            "points": [
+                [
+                    17.546526,
+                    1685.864234
+                ],
+                [
+                    172.10538,
+                    1709.11645
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Approved by:_吉岡由紀子_",
+            "points": [
+                [
+                    629.050781,
+                    1683.941042
+                ],
+                [
+                    964.929195,
+                    1708.198242
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "目覚まし時計",
+            "points": [
+                [
+                    316.641319,
+                    1313.600547
+                ],
+                [
+                    437.443359,
+                    1337.636719
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "UVカットサングラス",
+            "points": [
+                [
+                    278.7731,
+                    1357.120739
+                ],
+                [
+                    470.940182,
+                    1380.8590259999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "UVカットサングラス",
+            "points": [
+                [
+                    280.468692,
+                    1399.510537
+                ],
+                [
+                    473.200971,
+                    1421.5532320000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ボタンセット",
+            "points": [
+                [
+                    314.65505,
+                    1441.293405
+                ],
+                [
+                    437.457009,
+                    1463.9012969999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "バススツール",
+            "points": [
+                [
+                    315.682681,
+                    1482.398663
+                ],
+                [
+                    440.539903,
+                    1505.5203709999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ブラインド",
+            "points": [
+                [
+                    323.903733,
+                    1524.017737
+                ],
+                [
+                    428.72214099999997,
+                    1546.625629
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "エアロバイク",
+            "points": [
+                [
+                    318.140625,
+                    1274.370117
+                ],
+                [
+                    435.635742,
+                    1296.0615229999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ボールペン",
+            "points": [
+                [
+                    323.988884,
+                    1105.60794
+                ],
+                [
+                    426.854793,
+                    1128.78103
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "首輪",
+            "points": [
+                [
+                    355.074735,
+                    1145.171751
+                ],
+                [
+                    399.160124,
+                    1170.60563
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "日焼け防止手袋",
+            "points": [
+                [
+                    307.032965,
+                    1188.691944
+                ],
+                [
+                    451.158277,
+                    1212.4302309999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "電源タップ",
+            "points": [
+                [
+                    326.249673,
+                    1230.516544
+                ],
+                [
+                    430.245976,
+                    1255.385225
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ペット用毛布",
+            "points": [
+                [
+                    316.333008,
+                    1062.878906
+                ],
+                [
+                    437.44336,
+                    1084.5703119999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "バスタオル",
+            "points": [
+                [
+                    325.371094,
+                    979.728516
+                ],
+                [
+                    429.732657,
+                    1001.394946
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "インクスタンプ",
+            "points": [
+                [
+                    305.337373,
+                    1018.567556
+                ],
+                [
+                    454.54946,
+                    1044.001435
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "卵焼き器",
+            "points": [
+                [
+                    335.909904,
+                    852.182858
+                ],
+                [
+                    420.68949999999995,
+                    878.747132
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ウォレットチェーン",
+            "points": [
+                [
+                    286.172542,
+                    894.007458
+                ],
+                [
+                    468.166073,
+                    919.4413370000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "サッカーボール",
+            "points": [
+                [
+                    304.824053,
+                    810.923455
+                ],
+                [
+                    450.644957,
+                    834.096544
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "カミソリ",
+            "points": [
+                [
+                    337.605496,
+                    936.397256
+                ],
+                [
+                    415.602723,
+                    960.135543
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "懐中電灯",
+            "points": [
+                [
+                    336.475102,
+                    641.364265
+                ],
+                [
+                    415.75195299999996,
+                    667.010742
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "卵焼き器",
+            "points": [
+                [
+                    335.344707,
+                    683.754063
+                ],
+                [
+                    421.254697,
+                    708.622744
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ノートパソコン",
+            "points": [
+                [
+                    307.084842,
+                    727.274255
+                ],
+                [
+                    445.558181,
+                    749.882147
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "保冷材",
+            "points": [
+                [
+                    343.822667,
+                    768.533658
+                ],
+                [
+                    410.51594800000004,
+                    791.706747
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Description",
+            "points": [
+                [
+                    309.345631,
+                    598.974468
+                ],
+                [
+                    443.862589,
+                    626.669135
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Contact Number:",
+            "points": [
+                [
+                    629.050781,
+                    361.735122
+                ],
+                [
+                    822.46582,
+                    385.02246099999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Project/Work:",
+            "points": [
+                [
+                    18.317506,
+                    357.222928
+                ],
+                [
+                    177.80035900000001,
+                    391.827697
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "カッターマット",
+            "points": [
+                [
+                    219.175627,
+                    357.222928
+                ],
+                [
+                    391.44719999999995,
+                    390.323142
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "912470",
+            "points": [
+                [
+                    888.917502,
+                    359.248253
+                ],
+                [
+                    974.714452,
+                    385.982085
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "本田奈々",
+            "points": [
+                [
+                    891.155273,
+                    294.641602
+                ],
+                [
+                    985.1513669999999,
+                    318.140625
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Contact Name:",
+            "points": [
+                [
+                    627.796349,
+                    295.211399
+                ],
+                [
+                    801.255401,
+                    320.701798
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "株式会社シティ開発",
+            "points": [
+                [
+                    219.175627,
+                    292.527053
+                ],
+                [
+                    438.19563800000003,
+                    319.94824300000005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Company:",
+            "points": [
+                [
+                    21.691406,
+                    294.641602
+                ],
+                [
+                    132.663703,
+                    323.370436
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Invoice No.95193510",
+            "points": [
+                [
+                    19.822062,
+                    208.271961
+                ],
+                [
+                    256.03723,
+                    235.353956
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Date:_2020-02-28_",
+            "points": [
+                [
+                    18.317506,
+                    133.796478
+                ],
+                [
+                    322.989937,
+                    164.63986
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "EXPORT INVOICE",
+            "points": [
+                [
+                    21.326617,
+                    20.954837
+                ],
+                [
+                    329.760435,
+                    58.568718000000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Qty",
+            "points": [
+                [
+                    788.613743,
+                    599.802311
+                ],
+                [
+                    838.4538689999999,
+                    627.034545
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "59",
+            "points": [
+                [
+                    797.862426,
+                    642.449016
+                ],
+                [
+                    827.1499220000001,
+                    663.5154610000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "44",
+            "points": [
+                [
+                    798.376242,
+                    686.637169
+                ],
+                [
+                    831.774264,
+                    705.1345349999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "22",
+            "points": [
+                [
+                    798.376242,
+                    725.687164
+                ],
+                [
+                    829.719001,
+                    748.8088720000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "33",
+            "points": [
+                [
+                    799.403873,
+                    768.333869
+                ],
+                [
+                    826.122291,
+                    789.91413
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "29",
+            "points": [
+                [
+                    800.945321,
+                    810.980575
+                ],
+                [
+                    828.177555,
+                    835.1299140000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "25",
+            "points": [
+                [
+                    799.917689,
+                    854.141096
+                ],
+                [
+                    826.636107,
+                    874.693725
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "53",
+            "points": [
+                [
+                    800.431505,
+                    895.246354
+                ],
+                [
+                    829.719001,
+                    915.798983
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "40",
+            "points": [
+                [
+                    798.376242,
+                    937.893059
+                ],
+                [
+                    827.6637380000001,
+                    957.931872
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "87",
+            "points": [
+                [
+                    799.403873,
+                    977.970686
+                ],
+                [
+                    825.094659,
+                    1000.064762
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Unit price",
+            "points": [
+                [
+                    944.299909,
+                    597.233232
+                ],
+                [
+                    1059.394632,
+                    627.54836
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "22",
+            "points": [
+                [
+                    989.001877,
+                    642.449016
+                ],
+                [
+                    1018.2893730000001,
+                    665.056908
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "89",
+            "points": [
+                [
+                    989.001877,
+                    685.095721
+                ],
+                [
+                    1018.2893730000001,
+                    706.675982
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "49",
+            "points": [
+                [
+                    986.946614,
+                    727.742427
+                ],
+                [
+                    1018.289373,
+                    747.78124
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "28",
+            "points": [
+                [
+                    989.515693,
+                    768.847685
+                ],
+                [
+                    1016.747927,
+                    790.9417609999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "7",
+            "points": [
+                [
+                    995.167666,
+                    809.952943
+                ],
+                [
+                    1012.123585,
+                    833.588466
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "80",
+            "points": [
+                [
+                    986.946614,
+                    853.113464
+                ],
+                [
+                    1017.2617419999999,
+                    876.235172
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "61",
+            "points": [
+                [
+                    990.543324,
+                    895.76017
+                ],
+                [
+                    1017.7755579999999,
+                    916.8266150000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "78",
+            "points": [
+                [
+                    986.946614,
+                    935.837796
+                ],
+                [
+                    1022.399899,
+                    959.9871350000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "15",
+            "points": [
+                [
+                    990.029508,
+                    978.998317
+                ],
+                [
+                    1019.317004,
+                    1001.092393
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sub total",
+            "points": [
+                [
+                    1181.065397,
+                    596.799662
+                ],
+                [
+                    1293.026873,
+                    624.107339
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "96",
+            "points": [
+                [
+                    1222.026913,
+                    642.312457
+                ],
+                [
+                    1252.0653579999998,
+                    665.979111
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "43",
+            "points": [
+                [
+                    1221.116657,
+                    686.00474
+                ],
+                [
+                    1252.065358,
+                    706.03037
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "75",
+            "points": [
+                [
+                    1222.937168,
+                    726.056
+                ],
+                [
+                    1249.3345889999998,
+                    749.722654
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "23",
+            "points": [
+                [
+                    1222.026913,
+                    767.927772
+                ],
+                [
+                    1252.975614,
+                    791.594426
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "90",
+            "points": [
+                [
+                    1222.937168,
+                    810.709799
+                ],
+                [
+                    1253.885869,
+                    833.466197
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "39",
+            "points": [
+                [
+                    1222.026913,
+                    851.671315
+                ],
+                [
+                    1251.155102,
+                    876.248224
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "100",
+            "points": [
+                [
+                    1218.385889,
+                    895.363598
+                ],
+                [
+                    1254.7961249999998,
+                    917.20974
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "100",
+            "points": [
+                [
+                    1219.296145,
+                    936.325114
+                ],
+                [
+                    1258.437149,
+                    959.991768
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "69",
+            "points": [
+                [
+                    1222.937168,
+                    979.107142
+                ],
+                [
+                    1251.1551009999998,
+                    1000.9532839999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "7",
+            "points": [
+                [
+                    805.129709,
+                    1020.068657
+                ],
+                [
+                    819.693803,
+                    1042.825055
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "76",
+            "points": [
+                [
+                    797.847661,
+                    1063.760941
+                ],
+                [
+                    826.97585,
+                    1083.786571
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6",
+            "points": [
+                [
+                    804.219453,
+                    1104.722456
+                ],
+                [
+                    821.514315,
+                    1128.38911
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "18",
+            "points": [
+                [
+                    798.757917,
+                    1148.41474
+                ],
+                [
+                    827.886106,
+                    1168.44037
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6",
+            "points": [
+                [
+                    804.219453,
+                    1189.376255
+                ],
+                [
+                    821.514315,
+                    1210.3121409999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "57",
+            "points": [
+                [
+                    989.911657,
+                    1022.799425
+                ],
+                [
+                    1019.039846,
+                    1042.825055
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "35",
+            "points": [
+                [
+                    989.001401,
+                    1062.850685
+                ],
+                [
+                    1018.12959,
+                    1083.786571
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "62",
+            "points": [
+                [
+                    989.911657,
+                    1104.722456
+                ],
+                [
+                    1016.309078,
+                    1129.2993649999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "98",
+            "points": [
+                [
+                    989.001401,
+                    1146.594228
+                ],
+                [
+                    1017.219334,
+                    1168.44037
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "26",
+            "points": [
+                [
+                    988.091145,
+                    1188.465999
+                ],
+                [
+                    1019.950102,
+                    1209.401885
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "41",
+            "points": [
+                [
+                    1224.75768,
+                    1020.978913
+                ],
+                [
+                    1250.244845,
+                    1043.7353110000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5",
+            "points": [
+                [
+                    1227.488448,
+                    1061.940429
+                ],
+                [
+                    1246.603822,
+                    1083.786571
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "97",
+            "points": [
+                [
+                    1222.937168,
+                    1103.8122
+                ],
+                [
+                    1249.3345889999998,
+                    1125.6583420000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "58",
+            "points": [
+                [
+                    1222.026913,
+                    1146.594228
+                ],
+                [
+                    1251.155102,
+                    1168.44037
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "86",
+            "points": [
+                [
+                    1222.026913,
+                    1188.465999
+                ],
+                [
+                    1252.0653579999998,
+                    1210.312141
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "19",
+            "points": [
+                [
+                    802.007662,
+                    1230.196805
+                ],
+                [
+                    825.674316,
+                    1252.953203
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "88",
+            "points": [
+                [
+                    798.366639,
+                    1272.978833
+                ],
+                [
+                    827.494828,
+                    1293.004463
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "42",
+            "points": [
+                [
+                    800.187151,
+                    1316.671116
+                ],
+                [
+                    829.31534,
+                    1335.78649
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "56",
+            "points": [
+                [
+                    798.366639,
+                    1355.81212
+                ],
+                [
+                    826.584572,
+                    1378.568518
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8",
+            "points": [
+                [
+                    803.828174,
+                    1397.683891
+                ],
+                [
+                    822.943548,
+                    1419.530033
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "49",
+            "points": [
+                [
+                    798.366639,
+                    1441.376175
+                ],
+                [
+                    827.494828,
+                    1462.312061
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "18",
+            "points": [
+                [
+                    800.187151,
+                    1480.517179
+                ],
+                [
+                    825.674316,
+                    1503.273577
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "100",
+            "points": [
+                [
+                    793.815359,
+                    1524.209462
+                ],
+                [
+                    829.315339,
+                    1546.0556040000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "63",
+            "points": [
+                [
+                    989.520379,
+                    1228.376293
+                ],
+                [
+                    1018.6485680000001,
+                    1253.863458
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "65",
+            "points": [
+                [
+                    986.789611,
+                    1271.158321
+                ],
+                [
+                    1020.4690790000001,
+                    1295.7352299999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "52",
+            "points": [
+                [
+                    987.699867,
+                    1314.850604
+                ],
+                [
+                    1018.6485680000001,
+                    1337.607002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "19",
+            "points": [
+                [
+                    991.34089,
+                    1356.722376
+                ],
+                [
+                    1015.917799,
+                    1380.38903
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "89",
+            "points": [
+                [
+                    988.610123,
+                    1398.594147
+                ],
+                [
+                    1018.6485680000001,
+                    1425.901824
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "37",
+            "points": [
+                [
+                    987.699867,
+                    1441.376175
+                ],
+                [
+                    1015.007544,
+                    1461.4018050000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "100",
+            "points": [
+                [
+                    983.148587,
+                    1482.33769
+                ],
+                [
+                    1020.469079,
+                    1503.273576
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "82",
+            "points": [
+                [
+                    987.699867,
+                    1526.029974
+                ],
+                [
+                    1017.7383120000001,
+                    1546.0556040000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "37",
+            "points": [
+                [
+                    1222.54589,
+                    1230.196805
+                ],
+                [
+                    1250.763823,
+                    1253.8634590000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "95",
+            "points": [
+                [
+                    1222.54589,
+                    1272.978833
+                ],
+                [
+                    1251.6740790000001,
+                    1293.9147189999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "36",
+            "points": [
+                [
+                    1223.456146,
+                    1313.940348
+                ],
+                [
+                    1255.315103,
+                    1337.6070020000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "48",
+            "points": [
+                [
+                    1221.635634,
+                    1356.722376
+                ],
+                [
+                    1251.674079,
+                    1377.658262
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "12",
+            "points": [
+                [
+                    1223.456146,
+                    1397.683891
+                ],
+                [
+                    1250.763823,
+                    1418.6197769999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "91",
+            "points": [
+                [
+                    1224.366402,
+                    1440.465919
+                ],
+                [
+                    1249.853567,
+                    1462.312061
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "19",
+            "points": [
+                [
+                    1226.186914,
+                    1483.247946
+                ],
+                [
+                    1248.033056,
+                    1506.004344
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "19",
+            "points": [
+                [
+                    1224.366402,
+                    1523.299206
+                ],
+                [
+                    1248.943311,
+                    1546.96586
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Grand Total",
+            "points": [
+                [
+                    930.353745,
+                    1613.414541
+                ],
+                [
+                    1068.712642,
+                    1639.811962
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "73",
+            "points": [
+                [
+                    1119.686973,
+                    1609.773517
+                ],
+                [
+                    1147.904906,
+                    1629.7991470000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "For: _株式会社未来システム_",
+            "points": [
+                [
+                    626.32463,
+                    1774.37261
+                ],
+                [
+                    1069.233787,
+                    1799.549581
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Date: _2024-03-08_",
+            "points": [
+                [
+                    626.32463,
+                    1806.743001
+                ],
+                [
+                    979.829851,
+                    1831.406156
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "JAPANESE_TRADE_076946.jpg",
+    "imageData": null,
+    "imageHeight": 1851,
+    "imageWidth": 1372
+}

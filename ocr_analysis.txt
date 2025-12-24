@@ -1,0 +1,178 @@
+### Line-by-Line Comparison and Analysis:
+
+1. **OCR Text:**  
+   氏名  
+   **Ground Truth Text:**  
+   氏名  
+   **Result:** Correct
+
+2. **OCR Text:**  
+   齋藤  
+   **Ground Truth Text:**  
+   齋藤  
+   **Result:** Correct
+
+3. **OCR Text:**  
+   あかり  
+   **Ground Truth Text:**  
+   あかり  
+   **Result:** Correct
+
+4. **OCR Text:**  
+   平成  
+   **Ground Truth Text:**  
+   平成  
+   **Result:** Correct
+
+5. **OCR Text:**  
+   8年12月  
+   **Ground Truth Text:**  
+   8年12月  
+   **Result:** Correct
+
+6. **OCR Text:**  
+   6日生  
+   **Ground Truth Text:**  
+   6日生  
+   **Result:** Correct
+
+7. **OCR Text:**  
+   住所  
+   **Ground Truth Text:**  
+   住所  
+   **Result:** Correct
+
+8. **OCR Text:**  
+   札幌市西区宮の沢2-4-6-20-205  
+   **Ground Truth Text:**  
+   札幌市西区宮の沢２－４－６－２０－２０５  
+   **Result:** Incorrect  
+   - **Incorrect Segment:** 2-4-6-20-205  
+   - **Correct Segment:** ２－４－６－２０－２０５  
+   - **Type of Error:** Wrong character (numerals)  
+   - **Explanation:** The OCR misrecognized the full-width characters for the numbers, likely due to visual similarity or font rendering issues.
+
+9. **OCR Text:**  
+   交付  
+   **Ground Truth Text:**  
+   交付  
+   **Result:** Correct
+
+10. **OCR Text:**  
+   令和02年12月13日40503  
+   **Ground Truth Text:**  
+   令和02年12月13日 40503  
+   **Result:** Incorrect  
+   - **Incorrect Segment:** 令和02年12月13日40503  
+   - **Correct Segment:** 令和02年12月13日 40503  
+   - **Type of Error:** Missing space  
+   - **Explanation:** The lack of a space before the number "40503" may be due to segmentation issues in the OCR recognition.
+
+11. **OCR Text:**  
+   2024年(今和06年)01月06日まで有效  
+   **Ground Truth Text:**  
+   2024年(令和06年)01月06日まで有効  
+   **Result:** Incorrect  
+   - **Incorrect Segment:** 今和06年  
+   - **Correct Segment:** 令和06年  
+   - **Type of Error:** Wrong kanji  
+   - **Explanation:** The OCR likely misrecognized the kanji for "令," perhaps due to visual similarity with another kanji.
+
+12. **OCR Text:**  
+   運転免許証  
+   **Ground Truth Text:**  
+   免許の  
+   **Result:** Incorrect  
+   - **Incorrect Segment:** 運転免許証  
+   - **Correct Segment:** 免許の  
+   - **Type of Error:** Extra character  
+   - **Explanation:** The OCR included "運転" when it should have recognized "免許の." This may be due to line segmentation issues or misreading of the context.
+
+13. **OCR Text:**  
+   の  
+   **Ground Truth Text:**  
+   条件等  
+   **Result:** Incorrect  
+   - **Incorrect Segment:** の  
+   - **Correct Segment:** 条件等  
+   - **Type of Error:** Missing characters  
+   - **Explanation:** The OCR failed to capture the entire phrase "条件等," possibly due to a misreading in the segmentation or context.
+
+14. **OCR Text:**  
+   普通車はＡＴ車に限る  
+   **Ground Truth Text:**  
+   普通車はAT車に限る  
+   **Result:** Incorrect  
+   - **Incorrect Segment:** ＡＴ  
+   - **Correct Segment:** AT  
+   - **Type of Error:** Wrong character (kana confusion)  
+   - **Explanation:** The OCR used full-width katakana for "AT" instead of half-width, which can occur due to mixed font styles in the original text.
+
+15. **OCR Text:**  
+   鼻件牌  
+   **Ground Truth Text:**  
+   番号  
+   **Result:** Incorrect  
+   - **Incorrect Segment:** 鼻件牌  
+   - **Correct Segment:** 番号  
+   - **Type of Error:** Wrong kanji  
+   - **Explanation:** The OCR misread the characters entirely, possibly due to complex kanji or poor contrast.
+
+16. **OCR Text:**  
+   第101801867220号  
+   **Ground Truth Text:**  
+   第 101801867220 号  
+   **Result:** Incorrect  
+   - **Incorrect Segment:** 第101801867220号  
+   - **Correct Segment:** 第 101801867220 号  
+   - **Type of Error:** Missing space  
+   - **Explanation:** The OCR failed to insert spaces between the characters and numbers, possibly due to segmentation issues.
+
+17. **OCR Text:**  
+   节和00年00月00日  
+   **Ground Truth Text:**  
+   令和00年00月00日  
+   **Result:** Incorrect  
+   - **Incorrect Segment:** 节和  
+   - **Correct Segment:** 令和  
+   - **Type of Error:** Wrong kanji  
+   - **Explanation:** The OCR misidentified "令" as "节," possibly due to visual similarity or lack of context.
+
+18. **OCR Text:**  
+   春  
+   **Ground Truth Text:**  
+   他  
+   **Result:** Incorrect  
+   - **Incorrect Segment:** 春  
+   - **Correct Segment:** 他  
+   - **Type of Error:** Wrong kanji  
+   - **Explanation:** The OCR misread "他" as "春," likely influenced by font characteristics or segmentation misinterpretation.
+
+19. **OCR Text:**  
+   平成30年08月13日  
+   **Ground Truth Text:**  
+   平成30年08月13日  
+   **Result:** Correct
+
+20. **OCR Text:**  
+   动  
+   **Ground Truth Text:**  
+   二 種  
+   **Result:** Incorrect  
+   - **Incorrect Segment:** 动  
+   - **Correct Segment:** 二 種  
+   - **Type of Error:** Wrong character  
+   - **Explanation:** The OCR mishandled the characters due to either font issues or misrecognition of consecutive symbols.
+
+21. **OCR Text:**  
+   分和00年00月00日  
+   **Ground Truth Text:**  
+   令和00年00月00日  
+   **Result:** Incorrect  
+   - **Incorrect Segment:** 分和  
+   - **Correct Segment:** 令和  
+   - **Type of Error:** Wrong kanji  
+   - **Explanation:** The OCR misidentified "令" as "分" due to shape similarity and context ambiguity.
+
+### Summary:
+The OCR text contains multiple errors related to character recognition, spaces, and segmentation, leading to incorrect kanji usage and missing critical segments. Various causes include visual similarity of characters, poor contrast, and font styling inconsistencies.

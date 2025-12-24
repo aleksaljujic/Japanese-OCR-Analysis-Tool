@@ -1,0 +1,250 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "医療機器本部",
+            "points": [
+                [
+                    392.782898,
+                    253.190094
+                ],
+                [
+                    693.214356,
+                    298.21777299999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "E-mail: yokoyama@fujilatex.jp",
+            "points": [
+                [
+                    741.282043,
+                    633.26239
+                ],
+                [
+                    1331.620183,
+                    676.6688839999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "http://www.fujilatex.co.jp/",
+            "points": [
+                [
+                    740.81665,
+                    679.542725
+                ],
+                [
+                    1244.478112,
+                    719.3166180000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "携 帯:080-3805-7502",
+            "points": [
+                [
+                    738.848633,
+                    590.195557
+                ],
+                [
+                    1154.1046139999999,
+                    628.126038
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "横 山 隆 之",
+            "points": [
+                [
+                    462.554662,
+                    386.498638
+                ],
+                [
+                    1127.896152,
+                    470.107923
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "大阪支社 〒532-0011 大阪市淀川区西中島6-7-3 第6新大阪ビル8階",
+            "points": [
+                [
+                    570.164789,
+                    721.37741
+                ],
+                [
+                    1421.117445,
+                    763.9389150000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "不二ラテックス株式会社",
+            "points": [
+                [
+                    350.131409,
+                    149.799088
+                ],
+                [
+                    1098.857178,
+                    212.34405600000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "TEL:06(6301)8005 FAX:06(6304)6407",
+            "points": [
+                [
+                    741.366873,
+                    764.624522
+                ],
+                [
+                    1421.1572780000001,
+                    803.882396
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "JPX",
+            "points": [
+                [
+                    1220.846191,
+                    195.984024
+                ],
+                [
+                    1302.442504,
+                    234.760178
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ヘルスケア営業部長 兼 大阪支社 支社長",
+            "points": [
+                [
+                    389.543737,
+                    305.244544
+                ],
+                [
+                    1130.251342,
+                    353.52596200000005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "本 社〒101-0054 東京都千代田区神田錦町3丁目19番地1",
+            "points": [
+                [
+                    577.959026,
+                    501.903002
+                ],
+                [
+                    1421.1174449999999,
+                    538.408464
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "TEL:03(3259)2511(###) FAX:03(3291)5670",
+            "points": [
+                [
+                    736.345629,
+                    549.301223
+                ],
+                [
+                    1425.827828,
+                    584.62909
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "FUJI",
+            "points": [
+                [
+                    254.12032,
+                    720.199743
+                ],
+                [
+                    325.364815,
+                    744.78205
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    255.29788,
+                    746.401244
+                ],
+                [
+                    323.304023,
+                    763.7707780000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    1179.870908,
+                    248.050805
+                ],
+                [
+                    1345.8048270000002,
+                    273.208528
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "JAPANESE_CARD_056673.jpg",
+    "imageData": null,
+    "imageHeight": 899,
+    "imageWidth": 1488
+}
