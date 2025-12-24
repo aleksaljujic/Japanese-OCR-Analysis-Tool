@@ -1,0 +1,19 @@
+services:
+  ocr-service:
+    build: ./ocr_pipeline
+    ports:
+      - "8000:8000"
+
+  agent-service:
+    build: ./agent_pipeline
+    ports:
+      - "8001:8001"
+    env_file: .env
+
+  streamlit-ui:
+    build: .
+    ports:
+      - "8501:8501"
+    depends_on:
+      - ocr-service
+      - agent-service

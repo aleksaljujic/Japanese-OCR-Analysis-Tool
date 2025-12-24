@@ -14,4 +14,14 @@ env/
 .DS_Store
 Thumbs.db
 
-#txt
+# OCR i Agent outputi (da ne pushuješ rezultate testiranja)
+ocr_analysis.txt
+call.txt
+*.log
+
+# Streamlit i UI
+.streamlit/config.toml
+.streamlit/credentials.toml
+
+# Docker (opciono, ali preporučljivo da ne pushuješ temp fajlove build-a)
+.docker/
