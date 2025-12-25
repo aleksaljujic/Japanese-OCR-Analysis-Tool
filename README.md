@@ -100,6 +100,25 @@ Detailed character-level difference highlighting:
 - Inline visualization makes it easy to spot specific errors
 - Perfect for fine-tuning and debugging OCR accuracy
 
+### 6. AI-Powered Analysis
+![AI Analysis - Line by Line](UI/analysis1.png)
+
+GPT-4o provides intelligent, line-by-line analysis of OCR results:
+- **Correctness Assessment**: Each line is evaluated as "Correct" or "Incorrect"
+- **OCR Text Display**: Shows the extracted text for each line
+- Automatically identifies which lines were accurately recognized
+
+![AI Analysis - Error Details](UI/analysis2.png)
+
+For incorrect segments, the AI provides detailed insights:
+- **Incorrect Segment**: Highlights the specific text that was misrecognized
+- **Correct Segment**: Shows what the text should have been
+- **Type of Error**: Categorizes the error (e.g., "Wrong kanji")
+- **Cause**: Explains why the error likely occurred (e.g., "Visual similarities in the OCR process")
+- **Summary**: Comprehensive analysis of overall OCR performance and common error patterns
+
+**Download Analysis**: Export the complete AI analysis as a TXT file for documentation and review purposes.
+
 All results are powered by PaddleOCR and GPT-4o for accurate Japanese text recognition and analysis.
 
 It is recommended to run the **agent service** and the **OCR service** in separate Python environments, as they have different and often conflicting dependencies, which helps avoid instability and dependency hell.
