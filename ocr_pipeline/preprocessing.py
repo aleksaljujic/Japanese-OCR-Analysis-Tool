@@ -109,6 +109,42 @@ def setThresholdAdaptive(img, r=31, c=10):
     return bin_img
 
 
+def enhance_contrast(img):
+    lab = cv2.cvtColor(img, cv2.COLOR_BGR2LAB)
+    l, a, b = cv2.split(lab)
+    clahe = cv2.createCLAHE(clipLimit=3.0, tileGridSize=(8,8))
+    cl = clahe.apply(l)
+    limg = cv2.merge((cl, a, b))
+    return cv2.cvtColor(limg, cv2.COLOR_LAB2BGR)
+
+def sharpen_image(img):
+    gaussian_blur = cv2.GaussianBlur(img, (0, 0), 3)
+    return cv2.addWeighted(img, 1.5, gaussian_blur, -0.5, 0)
+
+# def setThresholdSauvola(img, window=15, k=0.15):
+#     # 1. Pojačaj kontrast
+#     img = enhance_contrast(img)
+    
+#     # 2. Oštri sliku
+#     img = sharpen_image(img)
+    
+#     # 3. Upscale (OBAVEZNO za mali font)
+#     # PaddleOCR najbolje radi kada je visina karaktera oko 40-50 px
+#     height, width = img.shape[:2]
+#     img = cv2.resize(img, (width * 2, height * 2), interpolation=cv2.INTER_CUBIC)
+    
+#     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+
+#     # 4. Sauvola sa manjim prozorom za detalje
+#     thresh_sauvola = threshold_sauvola(gray, window_size=window, k=k)
+#     bin_img = (gray > thresh_sauvola).astype(np.uint8) * 255
+    
+#     # 5. Invertuj ako je potrebno (PaddleOCR voli crn tekst na beloj pozadini)
+#     # Ako ti je pozadina crna a slova bela, dodaj:
+#     # bin_img = cv2.bitwise_not(bin_img)
+
+#     return bin_img
+
 def setThresholdSauvola(img, window=25, k=0.2):
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     gray = cv2.bilateralFilter(gray, 7, 50, 50)

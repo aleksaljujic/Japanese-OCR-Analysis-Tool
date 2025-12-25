@@ -56,25 +56,30 @@ def calculate_metrics(ocr_text, ground_truth):
         "similarity": similarity
     }
 
-def call_ocr_api(img_path, gt_path=None):
-    """Pozovi OCR API"""
-    response = requests.post(
-        "http://localhost:8001/ocr/from-path",
-        json={
-            "img_path": img_path,
-            "gt_path": gt_path
-        }
-    )
+OCR_URL = os.getenv("OCR_URL", "http://localhost:8000")
+AGENT_URL = os.getenv("AGENT_URL", "http://localhost:8001")
+
+def call_ocr_api(uploaded_image, uploaded_json=None):
+    """Šalje fajlove direktno kao bajtove OCR API-ju"""
+    url = f"{OCR_URL}/ocr/upload"
+    
+    # Priprema fajlova za slanje (Multipart/form-data)
+    files = {
+        'image': (uploaded_image.name, uploaded_image.getvalue(), uploaded_image.type)
+    }
+    
+    if uploaded_json:
+        files['ground_truth'] = (uploaded_json.name, uploaded_json.getvalue(), 'application/json')
+        
+    response = requests.post(url, files=files, timeout=60)
     return response.json()
 
 def call_analyze_api(ocr_text, ground_truth):
     """Pozovi Analyze API"""
+    url = f"{AGENT_URL}/analyze-ocr"
     response = requests.post(
-        "http://localhost:8002/analyze-ocr",
-        json={
-            "ocr_text": ocr_text,
-            "ground_truth": ground_truth
-        },
+        url,
+        json={"ocr_text": ocr_text, "ground_truth": ground_truth},
         timeout=60
     )
     return response.json()["analysis"]
@@ -133,19 +138,12 @@ if run_button:
     if not uploaded_image:
         st.error("❌ Please upload an image first!")
     else:
-        # Sačuvaj fajlove privremeno
-        temp_img_path = None
-        temp_gt_path = None
-        
         try:
-            with st.spinner("💾 Saving files..."):
-                temp_img_path = save_uploaded_file(uploaded_image)
-                if uploaded_json:
-                    temp_gt_path = save_uploaded_file(uploaded_json)
-            
-            # Pozovi OCR API
+            # VIŠE NE SAČUVAVAMO FAJLOVE PRIVREMENO
+            # Pozovi OCR API direktno sa objektima iz Streamlita
             with st.spinner("🔄 Running OCR..."):
-                ocr_result = call_ocr_api(temp_img_path, temp_gt_path)
+                # Menjamo poziv: šaljemo direktno uploaded_image i uploaded_json
+                ocr_result = call_ocr_api(uploaded_image, uploaded_json)
                 
                 if "ocr_text" not in ocr_result:
                     st.error(f"OCR failed: {ocr_result}")
@@ -155,10 +153,10 @@ if run_button:
                     
                     st.success("✅ OCR completed!")
                     
-                    # Display results
+                    # --- Ostatak koda za Results (header, tabovi...) ostaje ISTI ---
                     st.markdown("---")
                     st.header("📊 Results")
-                    
+                    # ... nastavi sa tvojim kodom ...
                     # Ako nema ground truth, prikaži samo OCR output
                     if gt_text is None:
                         st.subheader("OCR Generated Text")
@@ -311,13 +309,6 @@ if run_button:
         except Exception as e:
             st.error(f"❌ Error: {str(e)}")
             st.exception(e)
-        
-        finally:
-            # Obriši temp fajlove
-            if temp_img_path and os.path.exists(temp_img_path):
-                os.unlink(temp_img_path)
-            if temp_gt_path and os.path.exists(temp_gt_path):
-                os.unlink(temp_gt_path)
 
 # Footer
 st.markdown("---")
