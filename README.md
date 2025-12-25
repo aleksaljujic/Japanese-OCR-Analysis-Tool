@@ -50,7 +50,7 @@ This tool is designed for:
 The Japanese OCR Analysis Tool provides a comprehensive interface for analyzing OCR accuracy on Japanese documents. Here's a walkthrough of the main features:
 
 ### 1. Upload and Input
-![Application Interface](ui/ui.png)
+![Application Interface](UI/ui.png)
 
 The application features a clean, intuitive interface where you can:
 - Upload your Japanese document image (JPEG/PNG, max 200MB)
@@ -58,7 +58,7 @@ The application features a clean, intuitive interface where you can:
 - Process the image with a single click using the "RUN" button
 
 ### 2. OCR Results
-![OCR Text Output](ui/text.png)
+![OCR Text Output](UI/text.png)
 
 After processing, the application displays:
 - **OCR Generated Text**: The extracted Japanese text from your document
@@ -68,7 +68,7 @@ After processing, the application displays:
 The OCR output preserves the original text structure and formatting.
 
 ### 3. Performance Metrics
-![Performance Metrics](ui/metrics.png)
+![Performance Metrics](UI/metrics.png)
 
 The tool provides detailed performance analytics:
 
@@ -84,7 +84,7 @@ The tool provides detailed performance analytics:
 - Green indicators showing improvement trends
 
 ### 4. Side-by-Side Comparison
-![Text Comparison](ui/comparasion.png)
+![Text Comparison](UI/comparasion.png)
 
 Compare OCR results against ground truth:
 - **OCR Text** (left): The extracted text from the image
@@ -92,7 +92,7 @@ Compare OCR results against ground truth:
 - Easy visual comparison to identify discrepancies
 
 ### 5. Character-by-Character Analysis
-![Character Diff](ui/diff.png)
+![Character Diff](UI/diff.png)
 
 Detailed character-level difference highlighting:
 - **Red text**: Characters missing from OCR output
