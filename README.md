@@ -50,17 +50,21 @@ This tool is designed for:
 The Japanese OCR Analysis Tool provides a comprehensive interface for analyzing OCR accuracy on Japanese documents. Here's a walkthrough of the main features:
 
 ### 1. Upload and Input
-![Application Interface](UI/ui.png)
+
+![Application Interface](ui/ui.png)
 
 The application features a clean, intuitive interface where you can:
+
 - Upload your Japanese document image (JPEG/PNG, max 200MB)
 - Optionally upload ground truth data in JSON format for accuracy comparison
 - Process the image with a single click using the "RUN" button
 
 ### 2. OCR Results
-![OCR Text Output](UI/text.png)
+
+![OCR Text Output](ui/text.png)
 
 After processing, the application displays:
+
 - **OCR Generated Text**: The extracted Japanese text from your document
 - **Characters Detected**: Total number of characters recognized (e.g., 206)
 - **Lines Detected**: Number of text lines identified (e.g., 37)
@@ -68,11 +72,13 @@ After processing, the application displays:
 The OCR output preserves the original text structure and formatting.
 
 ### 3. Performance Metrics
-![Performance Metrics](UI/metrics.png)
+
+![Performance Metrics](ui/metrics.png)
 
 The tool provides detailed performance analytics:
 
 **Performance Metrics:**
+
 - **Character Error Rate (CER)**: Measures character-level accuracy (lower is better, <0.1 is excellent)
 - **Word Error Rate (WER)**: Evaluates word-level errors
 - **Accuracy**: Overall correctness percentage (higher is better, based on 1 - CER)
@@ -80,25 +86,52 @@ The tool provides detailed performance analytics:
 - **Character Precision**: Percentage of detected characters that are correct
 
 **Visual Metrics:**
+
 - Interactive bar charts for Accuracy and Similarity percentages
 - Green indicators showing improvement trends
 
 ### 4. Side-by-Side Comparison
-![Text Comparison](UI/comparasion.png)
+
+![Text Comparison](ui/comparasion.png)
 
 Compare OCR results against ground truth:
+
 - **OCR Text** (left): The extracted text from the image
 - **Ground Truth** (right): The reference text for comparison
 - Easy visual comparison to identify discrepancies
 
 ### 5. Character-by-Character Analysis
-![Character Diff](UI/diff.png)
+
+![Character Diff](ui/diff.png)
 
 Detailed character-level difference highlighting:
+
 - **Red text**: Characters missing from OCR output
 - **Green text**: Extra characters in OCR output
 - Inline visualization makes it easy to spot specific errors
 - Perfect for fine-tuning and debugging OCR accuracy
+
+### 6. AI-Powered Analysis
+
+![AI Analysis - Line by Line](ui/analysis1.png)
+
+GPT-4o provides intelligent, line-by-line analysis of OCR results:
+
+- **Correctness Assessment**: Each line is evaluated as "Correct" or "Incorrect"
+- **OCR Text Display**: Shows the extracted text for each line
+- Automatically identifies which lines were accurately recognized
+
+![AI Analysis - Error Details](ui/analysis2.png)
+
+For incorrect segments, the AI provides detailed insights:
+
+- **Incorrect Segment**: Highlights the specific text that was misrecognized
+- **Correct Segment**: Shows what the text should have been
+- **Type of Error**: Categorizes the error (e.g., "Wrong kanji")
+- **Cause**: Explains why the error likely occurred (e.g., "Visual similarities in the OCR process")
+- **Summary**: Comprehensive analysis of overall OCR performance and common error patterns
+
+**Download Analysis**: Export the complete AI analysis as a TXT file for documentation and review purposes.
 
 All results are powered by PaddleOCR and GPT-4o for accurate Japanese text recognition and analysis.
 
