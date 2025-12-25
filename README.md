@@ -43,15 +43,13 @@ This tool is designed for:
 - Error forensics in Japanese document OCR
 - Research and development workflows
 
----
-
 ## How It Works
 
 The Japanese OCR Analysis Tool provides a comprehensive interface for analyzing OCR accuracy on Japanese documents. Here's a walkthrough of the main features:
 
 ### 1. Upload and Input
 
-![Application Interface](ui/ui.png)
+![Application Interface](UI/ui.png)
 
 The application features a clean, intuitive interface where you can:
 
@@ -61,7 +59,7 @@ The application features a clean, intuitive interface where you can:
 
 ### 2. OCR Results
 
-![OCR Text Output](ui/text.png)
+![OCR Text Output](UI/text.png)
 
 After processing, the application displays:
 
@@ -73,7 +71,7 @@ The OCR output preserves the original text structure and formatting.
 
 ### 3. Performance Metrics
 
-![Performance Metrics](ui/metrics.png)
+![Performance Metrics](UI/metrics.png)
 
 The tool provides detailed performance analytics:
 
@@ -92,7 +90,7 @@ The tool provides detailed performance analytics:
 
 ### 4. Side-by-Side Comparison
 
-![Text Comparison](ui/comparasion.png)
+![Text Comparison](UI/comparasion.png)
 
 Compare OCR results against ground truth:
 
@@ -102,7 +100,7 @@ Compare OCR results against ground truth:
 
 ### 5. Character-by-Character Analysis
 
-![Character Diff](ui/diff.png)
+![Character Diff](UI/diff.png)
 
 Detailed character-level difference highlighting:
 
@@ -113,7 +111,7 @@ Detailed character-level difference highlighting:
 
 ### 6. AI-Powered Analysis
 
-![AI Analysis - Line by Line](ui/analysis1.png)
+![AI Analysis - Line by Line](UI/analysis1.png)
 
 GPT-4o provides intelligent, line-by-line analysis of OCR results:
 
@@ -121,7 +119,7 @@ GPT-4o provides intelligent, line-by-line analysis of OCR results:
 - **OCR Text Display**: Shows the extracted text for each line
 - Automatically identifies which lines were accurately recognized
 
-![AI Analysis - Error Details](ui/analysis2.png)
+![AI Analysis - Error Details](UI/analysis2.png)
 
 For incorrect segments, the AI provides detailed insights:
 
@@ -132,6 +130,8 @@ For incorrect segments, the AI provides detailed insights:
 - **Summary**: Comprehensive analysis of overall OCR performance and common error patterns
 
 **Download Analysis**: Export the complete AI analysis as a TXT file for documentation and review purposes.
+
+---
 
 All results are powered by PaddleOCR and GPT-4o for accurate Japanese text recognition and analysis.
 
