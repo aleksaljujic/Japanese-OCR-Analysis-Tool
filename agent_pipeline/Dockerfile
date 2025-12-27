@@ -9,5 +9,6 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Kopiramo kod agenta
 COPY . .
 
-# Agent radi na portu 8001 da ne bi bilo kolizije tokom lokalnog testiranja
-CMD ["uvicorn", "agent:app", "--host", "0.0.0.0", "--port", "8001"]
+EXPOSE 80
+
+CMD ["uvicorn", "agent:app", "--host", "0.0.0.0", "--port", "80"]

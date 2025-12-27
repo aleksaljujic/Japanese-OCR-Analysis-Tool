@@ -3,22 +3,21 @@ services:
     build: ./ocr_pipeline
     container_name: ocr-service
     ports:
-      - "8000:8000"
+      - "8000:80"
     volumes:
-      - ocr_models_data:/root/.paddlex # Čuva skinute Paddle modele
+      - ocr_models_data:/root/.paddlex
     healthcheck:
-      # Proverava da li je API spreman (menjaj /docs u / ako nemaš docs)
-      test: ["CMD", "curl", "-f", "http://localhost:8000/docs"]
+      test: ["CMD", "curl", "-f", "http://localhost:80/docs"]
       interval: 10s
       timeout: 5s
-      retries: 20 # Povećano jer Paddle modelima treba vremena da se podignu
+      retries: 20
     restart: unless-stopped
 
   agent-service:
     build: ./agent_pipeline
     container_name: agent-service
     ports:
-      - "8001:8001"
+      - "8001:80"
     env_file: .env
     restart: unless-stopped
     depends_on:
@@ -30,14 +29,14 @@ services:
     ports:
       - "8501:8501"
     environment:
-      - OCR_URL=http://ocr-service:8000
-      - AGENT_URL=http://agent-service:8001
+      - OCR_URL=http://ocr-service:80
+      - AGENT_URL=http://agent-service:80
     depends_on:
       ocr-service:
-        condition: service_healthy # Čeka da OCR postane "Healthy"
+        condition: service_healthy
       agent-service:
         condition: service_started
     restart: unless-stopped
 
 volumes:
-  ocr_models_data: # Definisan volume za modele
+  ocr_models_data:
