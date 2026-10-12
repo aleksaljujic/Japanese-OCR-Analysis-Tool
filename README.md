@@ -2,6 +2,32 @@
 
 This project is a pipeline for **Japanese text OCR evaluation and error analysis**.
 
+## Research background
+
+This tool grew out of a research phase carried out during an internship at the Department of Systems Theory and Control, Faculty of Organizational Sciences (FON), University of Belgrade, in December 2025. The research had two parts:
+
+1. **OCR engine benchmark.** Tesseract, PaddleOCR and Surya were evaluated on Japanese documents across 11 categories (bills, contracts, forms, ID cards, newspapers and more), using Character Error Rate (CER), with and without image preprocessing (cropping, Sauvola and adaptive thresholding).
+2. **ID card error analysis.** OCR output for five Japanese ID documents (114 text lines) was compared with ground truth line by line, and every incorrect line was classified by error type.
+
+| Engine | Mean CER (lower is better) |
+|---|---|
+| PaddleOCR | **0.583** |
+| Surya | 0.744 |
+| Tesseract | 0.840 |
+
+Key findings:
+
+- PaddleOCR had about 30% lower CER than Tesseract and was chosen as the engine for this tool.
+- Thresholding improved PaddleOCR by a further 7.5%, while barely helping Tesseract.
+- On ID cards, the worst failures came from layout segmentation (the engine reading the wrong regions of the card), not from misreading characters. Wrong-kanji substitutions were the most common single error type (29.5% of incorrect lines).
+
+These findings shaped the tool: line-by-line comparison, error-type classification and AI-assisted explanations of why OCR fails.
+
+Full reports (in Serbian):
+
+- [OCR benchmark: Tesseract vs PaddleOCR vs Surya](docs/research/OCR_benchmark.pdf)
+- [ID card OCR error analysis](docs/research/ID_cards_error_analysis.pdf)
+
 ## Overview
 
 The system combines:
